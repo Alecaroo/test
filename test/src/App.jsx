@@ -40,7 +40,9 @@ function App() {
               <th>Vuelo</th>
               <th>Origen</th>
               <th>Destino</th>
-              <th>Fecha</th>
+              <th>Altitud</th>
+              <th>Velocidad en Tierra</th>
+              <th>Rumbo</th>
               {/* Agrega más encabezados según los datos que quieras mostrar */}
             </tr>
           </thead>
@@ -48,9 +50,11 @@ function App() {
             {flights.map((flight, index) => (
               <tr key={index}>
                 <td>{flight.flight}</td>
-                <td>{flight.origin}</td>
-                <td>{flight.destination}</td>
-                <td>{flight.date}</td>
+                <td>{flight.departure}</td>
+                <td>{flight.arrival}</td>
+                <td>{flight.altitude}</td>
+                <td>{flight.groundspeed}</td>
+                <td>{flight.heading}</td>
                 {/* Agrega más celdas según los datos que quieras mostrar */}
               </tr>
             ))}
