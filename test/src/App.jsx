@@ -1,35 +1,132 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import DataTable from "react-data-table-component";
 
 function App() {
-  const [count, setCount] = useState(0)
-
+  const columns = [
+    {
+      name: "Arrival",
+      selector: row => row.arrival
+    },
+    {
+      name: "Model",
+      selector: row => row.model
+    },
+    {
+      name: "Time",
+      selector: row => row.time,
+      sortable: true
+    },
+    {
+      name: "Departure",
+      selector: row => row.departure
+    },
+  ]
+  const data = [
+    {
+      arrival: "ACE",
+      model: "Boeing 737",
+      time: "14:30",
+      departure: "ZAZ"
+    },
+    {
+      arrival: "ALC",
+      model: "Boeing 737",
+      time: "11:30",
+      departure: "SCQ"
+    },
+    {
+      arrival: "ACE",
+      model: "Boeing 737",
+      time: "14:30",
+      departure: "ZAZ"
+    },
+    {
+      arrival: "ALC",
+      model: "Boeing 737",
+      time: "11:30",
+      departure: "SCQ"
+    },
+    {
+      arrival: "ACE",
+      model: "Boeing 737",
+      time: "14:30",
+      departure: "ZAZ"
+    },
+    {
+      arrival: "ALC",
+      model: "Boeing 737",
+      time: "11:30",
+      departure: "SCQ"
+    },
+    {
+      arrival: "ACE",
+      model: "Boeing 737",
+      time: "14:30",
+      departure: "ZAZ"
+    },
+    {
+      arrival: "ALC",
+      model: "Boeing 737",
+      time: "11:30",
+      departure: "SCQ"
+    },
+    {
+      arrival: "ACE",
+      model: "Boeing 737",
+      time: "14:30",
+      departure: "ZAZ"
+    },
+    {
+      arrival: "ALC",
+      model: "Boeing 737",
+      time: "11:30",
+      departure: "SCQ"
+    },
+    {
+      arrival: "ACE",
+      model: "Boeing 737",
+      time: "14:30",
+      departure: "ZAZ"
+    },
+    {
+      arrival: "ALC",
+      model: "Boeing 737",
+      time: "11:30",
+      departure: "SCQ"
+    },
+    {
+      arrival: "ACE",
+      model: "Boeing 737",
+      time: "14:30",
+      departure: "ZAZ"
+    },
+    {
+      arrival: "ALC",
+      model: "Boeing 737",
+      time: "11:30",
+      departure: "SCQ"
+    },
+    {
+      arrival: "ACE",
+      model: "Boeing 737",
+      time: "14:30",
+      departure: "ZAZ"
+    },
+    {
+      arrival: "ALC",
+      model: "Boeing 737",
+      time: "11:30",
+      departure: "SCQ"
+    },
+  ]
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    <div>
+      <DataTable
+        columns={columns}
+        data={data}
+        pagination
+        fixedHeader
+      />
+    </div>
   )
 }
-
-export default App
+export default App;
