@@ -1,0 +1,9201 @@
+[
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "BOD",
+    "departure_position": [
+    44.8283,
+    -0.715556
+    ],
+    "flight": "FR2755",
+    "groundspeed": 465,
+    "heading": 208.62658821775273,
+    "id": "2144268473",
+    "latitude": 41.01122,
+    "longitude": -3.08042,
+    "registration": "9H-QCO",
+    "source": "ADSB",
+    "station": "EXTRPI011185",
+    "timestamp": 1713897894000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 9825,
+    "arrival": "AMS",
+    "arrival_position": [
+    52.3086,
+    4.76389
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR3102",
+    "groundspeed": 320,
+    "heading": 120.10858968672909,
+    "id": "2144271310",
+    "latitude": 52.39989,
+    "longitude": 3.62755,
+    "registration": "EI-DPZ",
+    "source": "ADSB",
+    "station": "EXTRPI014468",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -896
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36275,
+    "arrival": "TFS",
+    "arrival_position": [
+    28.0445,
+    -16.5725
+    ],
+    "departure": "EMA",
+    "departure_position": [
+    52.8311,
+    -1.32806
+    ],
+    "flight": "FR3152",
+    "groundspeed": 376,
+    "heading": 207.83270167014382,
+    "id": "2144278350",
+    "latitude": 29.49527,
+    "longitude": -16.39345,
+    "registration": "EI-IGE",
+    "source": "ADSB",
+    "station": "PGANRB504572",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": -1184
+    },
+    {
+    "airline": "RYR",
+    "arrival": "FAO",
+    "arrival_position": [
+    37.0144,
+    -7.96591
+    ],
+    "departure": "BOD",
+    "departure_position": [
+    44.8283,
+    -0.715556
+    ],
+    "flight": "FR5099",
+    "groundspeed": 20,
+    "heading": 99.8628571376791,
+    "id": "2144282208",
+    "latitude": 37.01666,
+    "longitude": -7.96815,
+    "registration": "9H-QAU",
+    "source": "ADSB",
+    "station": "EXTRPI014214",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "NRN",
+    "arrival_position": [
+    51.6024,
+    6.14217
+    ],
+    "departure": "TFS",
+    "departure_position": [
+    28.0445,
+    -16.5725
+    ],
+    "flight": "FR7563",
+    "groundspeed": 384,
+    "heading": 49.75175361253321,
+    "id": "2144283158",
+    "latitude": 48.9575,
+    "longitude": 3.37049,
+    "registration": "9H-QEM",
+    "source": "ADSB",
+    "station": "EXTRPI001931",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 15150,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "TFS",
+    "departure_position": [
+    28.0445,
+    -16.5725
+    ],
+    "flight": "FR579",
+    "groundspeed": 316,
+    "heading": 25.60141023575659,
+    "id": "2144285030",
+    "latitude": 51.44865,
+    "longitude": -0.33836,
+    "registration": "EI-EVE",
+    "source": "ADSB",
+    "station": "EXTRPI581882",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -1600
+    },
+    {
+    "airline": "RYR",
+    "altitude": 14750,
+    "arrival": "LPA",
+    "arrival_position": [
+    27.9319,
+    -15.3866
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR94",
+    "groundspeed": 300,
+    "heading": 197.52714832588848,
+    "id": "2144286695",
+    "latitude": 28.3618,
+    "longitude": -15.32978,
+    "registration": "EI-GSI",
+    "source": "ADSB",
+    "station": "EXTRPI004335",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -1660
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "GRO",
+    "arrival_position": [
+    41.901,
+    2.76055
+    ],
+    "departure": "LBA",
+    "departure_position": [
+    53.8659,
+    -1.66057
+    ],
+    "flight": "FR2325",
+    "groundspeed": 460,
+    "heading": 162.9162402342721,
+    "id": "2144287046",
+    "latitude": 49.43187,
+    "longitude": 0.14156,
+    "registration": "EI-IGJ",
+    "source": "ADSB",
+    "station": "EXTRPI001473",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 39000,
+    "arrival": "TFS",
+    "arrival_position": [
+    28.0445,
+    -16.5725
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR5555",
+    "groundspeed": 390,
+    "heading": 189.3163866793194,
+    "id": "2144287995",
+    "latitude": 30.01502,
+    "longitude": -16.79057,
+    "registration": "EI-GXM",
+    "source": "ADSB",
+    "station": "EXTRPI001572",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "OTP",
+    "arrival_position": [
+    44.5722,
+    26.1022
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR5194",
+    "groundspeed": 420,
+    "heading": 120.41250578403799,
+    "id": "2144288193",
+    "latitude": 46.48636,
+    "longitude": 21.1318,
+    "registration": "EI-EML",
+    "source": "ADSB",
+    "station": "EXTRPI000703",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "arrival": "ATH",
+    "arrival_position": [
+    37.9364,
+    23.9445
+    ],
+    "departure": "CRL",
+    "departure_position": [
+    50.4592,
+    4.45382
+    ],
+    "flight": "FR1197",
+    "groundspeed": 60,
+    "heading": 217.01591832998264,
+    "id": "2144289470",
+    "latitude": 37.93452,
+    "longitude": 23.93124,
+    "registration": "EI-DPF",
+    "source": "ADSB",
+    "station": "PGANRB400512",
+    "timestamp": 1713897885000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 4550,
+    "arrival": "NAP",
+    "arrival_position": [
+    40.886,
+    14.2908
+    ],
+    "departure": "LTN",
+    "departure_position": [
+    51.8747,
+    -0.368333
+    ],
+    "flight": "FR5455",
+    "groundspeed": 181,
+    "heading": 148.17751162808497,
+    "id": "2144295549",
+    "latitude": 41.0056,
+    "longitude": 14.49841,
+    "registration": "EI-IJG",
+    "source": "ADSB",
+    "station": "EXTRPI576422",
+    "timestamp": 1713897889000,
+    "type": "B38M",
+    "verticalspeed": -1056
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "ACE",
+    "arrival_position": [
+    28.9455,
+    -13.6052
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR5910",
+    "groundspeed": 410,
+    "heading": 204.67309714123093,
+    "id": "2144298877",
+    "latitude": 31.44255,
+    "longitude": -12.00946,
+    "registration": "EI-ENG",
+    "source": "ADSB",
+    "station": "EXTRPI004335",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 400,
+    "arrival": "BDS",
+    "arrival_position": [
+    40.6576,
+    17.947
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR9288",
+    "groundspeed": 140,
+    "heading": 136.7319587302195,
+    "id": "2144299646",
+    "latitude": 40.68068,
+    "longitude": 17.91962,
+    "registration": "EI-GXH",
+    "source": "ADSB",
+    "station": "EXTRPI580141",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": -760
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "AGA",
+    "arrival_position": [
+    30.325,
+    -9.41307
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR3995",
+    "groundspeed": "",
+    "heading": 183.33885100453435,
+    "id": "2144300403",
+    "latitude": 35.37649,
+    "longitude": -9.42072,
+    "registration": "EI-EKH",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "arrival": "MLA",
+    "arrival_position": [
+    35.8575,
+    14.4775
+    ],
+    "departure": "EDI",
+    "departure_position": [
+    55.95,
+    -3.3725
+    ],
+    "flight": "FR6695",
+    "groundspeed": "",
+    "heading": 157.9825760307184,
+    "id": "2144300864",
+    "latitude": 40.41467,
+    "longitude": 12.00738,
+    "registration": "EI-IHN",
+    "source": "ADSB",
+    "station": "EXTRPI595711",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 1550,
+    "arrival": "NUE",
+    "arrival_position": [
+    49.4987,
+    11.0669
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR5403",
+    "groundspeed": 147,
+    "heading": 98.8191291004203,
+    "id": "2144302003",
+    "latitude": 49.50421,
+    "longitude": 11.02188,
+    "registration": "9H-QAS",
+    "source": "ADSB",
+    "station": "EXTRPI014690",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -768
+    },
+    {
+    "airline": "RYR",
+    "altitude": 14350,
+    "arrival": "SOF",
+    "arrival_position": [
+    42.6967,
+    23.4114
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR956",
+    "groundspeed": 362,
+    "heading": 127.06448165822678,
+    "id": "2144303431",
+    "latitude": 42.91273,
+    "longitude": 22.71015,
+    "registration": "9H-LMI",
+    "source": "ADSB",
+    "station": "EXTRPI004428",
+    "timestamp": 1713897892000,
+    "type": "A320",
+    "verticalspeed": -3390
+    },
+    {
+    "airline": "RYR",
+    "altitude": 5150,
+    "arrival": "CTA",
+    "arrival_position": [
+    37.4668,
+    15.0664
+    ],
+    "departure": "WMI",
+    "departure_position": [
+    52.4511,
+    20.6518
+    ],
+    "flight": "FR5440",
+    "groundspeed": 226,
+    "heading": 268.5827878842575,
+    "id": "2144303719",
+    "latitude": 37.51086,
+    "longitude": 15.42104,
+    "registration": "SP-RKE",
+    "source": "ADSB",
+    "station": "EXTRPI002324",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "LIS",
+    "departure_position": [
+    38.7813,
+    -9.13592
+    ],
+    "flight": "FR9705",
+    "groundspeed": 472,
+    "heading": 60.911941206875554,
+    "id": "2144303923",
+    "latitude": 44.99789,
+    "longitude": 11.00372,
+    "registration": "9H-LOT",
+    "source": "ADSB",
+    "station": "EXTRPI010459",
+    "timestamp": 1713897894000,
+    "type": "A320",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 270,
+    "arrival": "NCL",
+    "arrival_position": [
+    55.0375,
+    -1.69167
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR2346",
+    "groundspeed": "",
+    "heading": 246.28891382955254,
+    "id": "2144304056",
+    "latitude": 55.041,
+    "longitude": -1.6852,
+    "registration": "EI-EFE",
+    "source": "ADSB",
+    "station": "EXTSHA194972",
+    "timestamp": 1713897889246,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 5225,
+    "arrival": "HAM",
+    "arrival_position": [
+    53.6304,
+    9.98823
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR7185",
+    "groundspeed": 249,
+    "heading": 89.99770756091704,
+    "id": "2144305156",
+    "latitude": 53.81704,
+    "longitude": 10.03932,
+    "registration": "EI-ENK",
+    "source": "ADSB",
+    "station": "EXTRPI251770",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -896
+    },
+    {
+    "airline": "RYR",
+    "altitude": 3800,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "BRS",
+    "departure_position": [
+    51.3827,
+    -2.71909
+    ],
+    "flight": "FR4121",
+    "groundspeed": 234,
+    "heading": 151.7606561874303,
+    "id": "2144305375",
+    "latitude": 36.78791,
+    "longitude": -4.71717,
+    "registration": "EI-HEV",
+    "source": "ADSB",
+    "station": "EXTRPI002909",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": -1472
+    },
+    {
+    "airline": "RYR",
+    "altitude": 1850,
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR7349",
+    "groundspeed": 140,
+    "heading": 343.53600829814997,
+    "id": "2144305646",
+    "latitude": 48.03278,
+    "longitude": 16.61483,
+    "registration": "EI-DPL",
+    "source": "ADSB",
+    "station": "EXTRPI005620",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -830
+    },
+    {
+    "airline": "RYR",
+    "altitude": 2250,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "FAO",
+    "departure_position": [
+    37.0144,
+    -7.96591
+    ],
+    "flight": "FR7035",
+    "groundspeed": 172,
+    "heading": 275.50629792890015,
+    "id": "2144306037",
+    "latitude": 53.40935,
+    "longitude": -6.05637,
+    "registration": "EI-EBO",
+    "source": "ADSB",
+    "station": "EXTRPI027083",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -896
+    },
+    {
+    "airline": "RYR",
+    "arrival": "ATH",
+    "arrival_position": [
+    37.9364,
+    23.9445
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR15",
+    "groundspeed": 412,
+    "heading": 148.41930032470339,
+    "id": "2144307040",
+    "latitude": 39.26332,
+    "longitude": 23.3996,
+    "registration": "EI-ENW",
+    "source": "ADSB",
+    "station": "EXTRPI545612",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 5925,
+    "arrival": "OPO",
+    "arrival_position": [
+    41.2481,
+    -8.68139
+    ],
+    "departure": "VIE",
+    "departure_position": [
+    48.1103,
+    16.5697
+    ],
+    "flight": "FR751",
+    "groundspeed": 256,
+    "heading": 255.22578605659652,
+    "id": "2144307449",
+    "latitude": 41.09729,
+    "longitude": -8.44202,
+    "registration": "EI-HMX",
+    "source": "ADSB",
+    "station": "EXTRPI009414",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -576
+    },
+    {
+    "airline": "RYR",
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "MLA",
+    "departure_position": [
+    35.8575,
+    14.4775
+    ],
+    "flight": "FR1589",
+    "groundspeed": 490,
+    "heading": 8.39006606511299,
+    "id": "2144307765",
+    "latitude": 41.01141,
+    "longitude": 15.42304,
+    "registration": "9H-QCX",
+    "source": "ADSB",
+    "station": "EXTRPI042121",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "SOF",
+    "arrival_position": [
+    42.6967,
+    23.4114
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR2690",
+    "groundspeed": 443,
+    "heading": 118.49178828753867,
+    "id": "2144308053",
+    "latitude": 44.71338,
+    "longitude": 18.59282,
+    "registration": "EI-IJA",
+    "source": "ADSB",
+    "station": "EXTRPI585541",
+    "timestamp": 1713897888000,
+    "type": "B38M",
+    "verticalspeed": -928
+    },
+    {
+    "airline": "RYR",
+    "altitude": 20650,
+    "arrival": "LIS",
+    "arrival_position": [
+    38.7813,
+    -9.13592
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR7328",
+    "groundspeed": 380,
+    "heading": 212.40166109277544,
+    "id": "2144308659",
+    "latitude": 39.49713,
+    "longitude": -8.97505,
+    "registration": "EI-EKW",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -1600
+    },
+    {
+    "airline": "RYR",
+    "altitude": 18975,
+    "arrival": "IBZ",
+    "arrival_position": [
+    38.8729,
+    1.37312
+    ],
+    "departure": "MAN",
+    "departure_position": [
+    53.3537,
+    -2.27495
+    ],
+    "flight": "FR1263",
+    "groundspeed": 318,
+    "heading": 214.9119468580519,
+    "id": "2144309564",
+    "latitude": 39.56717,
+    "longitude": 2.23529,
+    "registration": "EI-IHB",
+    "source": "ADSB",
+    "station": "EXTRPI003336",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 28225,
+    "arrival": "PFO",
+    "arrival_position": [
+    34.718,
+    32.4857
+    ],
+    "departure": "KTW",
+    "departure_position": [
+    50.4743,
+    19.08
+    ],
+    "flight": "FR6393",
+    "groundspeed": 432,
+    "heading": 137.49972663444225,
+    "id": "2144309735",
+    "latitude": 35.89069,
+    "longitude": 31.0346,
+    "registration": "EI-EGD",
+    "source": "ADSB",
+    "station": "EXTRPI002728",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -3744
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "FEZ",
+    "arrival_position": [
+    33.9273,
+    -4.97796
+    ],
+    "departure": "MRS",
+    "departure_position": [
+    43.4393,
+    5.22142
+    ],
+    "flight": "FR9525",
+    "groundspeed": 420,
+    "heading": 211.85019161918862,
+    "id": "2144309963",
+    "latitude": 35.5703,
+    "longitude": -3.47517,
+    "registration": "9H-QBE",
+    "source": "ADSB",
+    "station": "EXTRPI001048",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "SOF",
+    "arrival_position": [
+    42.6967,
+    23.4114
+    ],
+    "departure": "MAD",
+    "departure_position": [
+    40.4936,
+    -3.56676
+    ],
+    "flight": "FR6410",
+    "groundspeed": 470,
+    "heading": 86.37002333799404,
+    "id": "2144310151",
+    "latitude": 43.38162,
+    "longitude": 20.0259,
+    "registration": "9H-VUW",
+    "source": "ADSB",
+    "station": "EXTRPI585543",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 32950,
+    "arrival": "KRK",
+    "arrival_position": [
+    50.0777,
+    19.7848
+    ],
+    "departure": "MAD",
+    "departure_position": [
+    40.4936,
+    -3.56676
+    ],
+    "flight": "FR5356",
+    "groundspeed": 504,
+    "heading": 52.33617083596636,
+    "id": "2144310265",
+    "latitude": 49.04196,
+    "longitude": 17.39671,
+    "registration": "EI-DWW",
+    "source": "ADSB",
+    "station": "EXTRPI016067",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -704
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "KUN",
+    "arrival_position": [
+    54.9639,
+    24.0848
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR2746",
+    "groundspeed": 480,
+    "heading": 84.36600485437725,
+    "id": "2144311550",
+    "latitude": 54.11032,
+    "longitude": 21.22229,
+    "registration": "SP-RZC",
+    "source": "ADSB",
+    "station": "PGANRB400421",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 19950,
+    "arrival": "MAN",
+    "arrival_position": [
+    53.3537,
+    -2.27495
+    ],
+    "departure": "MXP",
+    "departure_position": [
+    45.6306,
+    8.72811
+    ],
+    "flight": "FR6819",
+    "groundspeed": 332,
+    "heading": 318.9473938804485,
+    "id": "2144312131",
+    "latitude": 52.74266,
+    "longitude": -1.22192,
+    "registration": "9H-QBT",
+    "source": "ADSB",
+    "station": "EXTRPI007417",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -2400
+    },
+    {
+    "airline": "RYR",
+    "arrival": "BRS",
+    "arrival_position": [
+    51.3827,
+    -2.71909
+    ],
+    "departure": "POZ",
+    "departure_position": [
+    52.421,
+    16.8263
+    ],
+    "flight": "FR7948",
+    "groundspeed": "",
+    "heading": 352.9630067891844,
+    "id": "2144312385",
+    "latitude": 51.38553,
+    "longitude": -2.71597,
+    "registration": "EI-ENN",
+    "source": "ADSB",
+    "station": "EXTRPI016050",
+    "timestamp": 1713897855000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 1600,
+    "arrival": "FAO",
+    "arrival_position": [
+    37.0144,
+    -7.96591
+    ],
+    "departure": "BOH",
+    "departure_position": [
+    50.78,
+    -1.8425
+    ],
+    "flight": "FR3944",
+    "groundspeed": 177,
+    "heading": 279.83504642861163,
+    "id": "2144312402",
+    "latitude": 36.99921,
+    "longitude": -7.85845,
+    "registration": "EI-DLB",
+    "source": "ADSB",
+    "station": "PGANRB501510",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -1020
+    },
+    {
+    "airline": "RYR",
+    "altitude": 39000,
+    "arrival": "CFU",
+    "arrival_position": [
+    39.6019,
+    19.9117
+    ],
+    "departure": "BHX",
+    "departure_position": [
+    52.4539,
+    -1.74803
+    ],
+    "flight": "FR1679",
+    "groundspeed": 440,
+    "heading": 132.82189399644062,
+    "id": "2144312449",
+    "latitude": 42.55582,
+    "longitude": 17.56708,
+    "registration": "EI-EBV",
+    "source": "ADSB",
+    "station": "PGANRB501028",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 206,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "ZAG",
+    "departure_position": [
+    45.7429,
+    16.0688
+    ],
+    "flight": "FR2191",
+    "groundspeed": 138,
+    "heading": 274.661581113488,
+    "id": "2144312654",
+    "latitude": 53.42043,
+    "longitude": -6.2542,
+    "registration": "9H-LMG",
+    "source": "ADSB",
+    "station": "EXTRPI089573",
+    "timestamp": 1713897887000,
+    "type": "A320",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 20600,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "MAD",
+    "departure_position": [
+    40.4936,
+    -3.56676
+    ],
+    "flight": "FR5983",
+    "groundspeed": 310,
+    "heading": 16.06375456931835,
+    "id": "2144312661",
+    "latitude": 44.61479,
+    "longitude": 9.13127,
+    "registration": "9H-QBS",
+    "source": "ADSB",
+    "station": "EXTRPI001948",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -1056
+    },
+    {
+    "airline": "RYR",
+    "altitude": 4450,
+    "arrival": "WMI",
+    "arrival_position": [
+    52.4511,
+    20.6518
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR1925",
+    "groundspeed": 192,
+    "heading": 94.39169802758045,
+    "id": "2144312876",
+    "latitude": 52.42797,
+    "longitude": 20.28555,
+    "registration": "SP-RKR",
+    "source": "ADSB",
+    "station": "EXTRPI002916",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -760
+    },
+    {
+    "airline": "RYR",
+    "arrival": "PEG",
+    "arrival_position": [
+    43.0959,
+    12.5132
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR2497",
+    "groundspeed": 14,
+    "heading": 245.3425159879664,
+    "id": "2144313167",
+    "latitude": 43.09577,
+    "longitude": 12.5057,
+    "registration": "EI-DPP",
+    "source": "ADSB",
+    "station": "EXTRPI592982",
+    "timestamp": 1713897888000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 28375,
+    "arrival": "BRS",
+    "arrival_position": [
+    51.3827,
+    -2.71909
+    ],
+    "departure": "MAD",
+    "departure_position": [
+    40.4936,
+    -3.56676
+    ],
+    "flight": "FR154",
+    "groundspeed": 331,
+    "heading": 3.969391330022745,
+    "id": "2144313854",
+    "latitude": 50.19287,
+    "longitude": -3.66842,
+    "registration": "EI-IFW",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": -1088
+    },
+    {
+    "airline": "RYR",
+    "altitude": 8250,
+    "arrival": "PSA",
+    "arrival_position": [
+    43.6839,
+    10.3927
+    ],
+    "departure": "EDI",
+    "departure_position": [
+    55.95,
+    -3.3725
+    ],
+    "flight": "FR3264",
+    "groundspeed": 242,
+    "heading": 212.43717807645953,
+    "id": "2144313903",
+    "latitude": 43.74835,
+    "longitude": 10.09238,
+    "registration": "9H-QBV",
+    "source": "ADSB",
+    "station": "EXTRPI578941",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 627,
+    "arrival": "WRO",
+    "arrival_position": [
+    51.1027,
+    16.8858
+    ],
+    "departure": "MLA",
+    "departure_position": [
+    35.8575,
+    14.4775
+    ],
+    "flight": "FR3462",
+    "groundspeed": 12,
+    "heading": 24.42089912263185,
+    "id": "2144314391",
+    "latitude": 51.09989,
+    "longitude": 16.89848,
+    "registration": "9H-VUX",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 11900,
+    "arrival": "PSA",
+    "arrival_position": [
+    43.6839,
+    10.3927
+    ],
+    "departure": "LIS",
+    "departure_position": [
+    38.7813,
+    -9.13592
+    ],
+    "flight": "FR1422",
+    "groundspeed": 263,
+    "heading": 150.62005557717322,
+    "id": "2144314397",
+    "latitude": 43.69963,
+    "longitude": 9.6923,
+    "registration": "9H-QCW",
+    "source": "ADSB",
+    "station": "EXTRPI578941",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -1020
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "ABZ",
+    "arrival_position": [
+    57.2019,
+    -2.19778
+    ],
+    "departure": "ALC",
+    "departure_position": [
+    38.2822,
+    -0.558156
+    ],
+    "flight": "FR8005",
+    "groundspeed": 400,
+    "heading": 8.366513011533812,
+    "id": "2144314545",
+    "latitude": 50.61443,
+    "longitude": -3.48035,
+    "registration": "EI-IGH",
+    "source": "ADSB",
+    "station": "EXTRPI576722",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 39000,
+    "arrival": "MLA",
+    "arrival_position": [
+    35.8575,
+    14.4775
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR8853",
+    "groundspeed": 438,
+    "heading": 157.04686743518334,
+    "id": "2144315036",
+    "latitude": 38.71689,
+    "longitude": 12.82294,
+    "registration": "9H-VUT",
+    "source": "ADSB",
+    "station": "EXTRPI595711",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 3850,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "AMS",
+    "departure_position": [
+    52.3086,
+    4.76389
+    ],
+    "flight": "FR3101",
+    "groundspeed": 208,
+    "heading": 243.1204642056645,
+    "id": "2144315063",
+    "latitude": 53.43024,
+    "longitude": -5.85951,
+    "registration": "EI-DHC",
+    "source": "ADSB",
+    "station": "EXTRPI210271",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": -608
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "PIK",
+    "arrival_position": [
+    55.5094,
+    -4.58667
+    ],
+    "departure": "ACE",
+    "departure_position": [
+    28.9455,
+    -13.6052
+    ],
+    "flight": "FR6154",
+    "groundspeed": "",
+    "heading": 19.721740926494135,
+    "id": "2144315737",
+    "latitude": 44.49147,
+    "longitude": -8.13354,
+    "registration": "EI-ENA",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "LIS",
+    "arrival_position": [
+    38.7813,
+    -9.13592
+    ],
+    "departure": "BLQ",
+    "departure_position": [
+    44.5354,
+    11.2887
+    ],
+    "flight": "FR789",
+    "groundspeed": "",
+    "heading": 254.55771159349922,
+    "id": "2144315764",
+    "latitude": 39.77078,
+    "longitude": -5.29929,
+    "registration": "9H-QBQ",
+    "source": "ADSB",
+    "station": "EXTRPI001278",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37975,
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "FAO",
+    "departure_position": [
+    37.0144,
+    -7.96591
+    ],
+    "flight": "FR728",
+    "groundspeed": 458,
+    "heading": 52.87610070495049,
+    "id": "2144315796",
+    "latitude": 44.87868,
+    "longitude": 9.59924,
+    "registration": "9H-LOI",
+    "source": "ADSB",
+    "station": "EXTRPI252290",
+    "timestamp": 1713897890000,
+    "type": "A320",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 27800,
+    "arrival": "BRI",
+    "arrival_position": [
+    41.1389,
+    16.7606
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR1905",
+    "groundspeed": 380,
+    "heading": 126.91718179858628,
+    "id": "2144315934",
+    "latitude": 42.47105,
+    "longitude": 15.85998,
+    "registration": "9H-QDT",
+    "source": "ADSB",
+    "station": "EXTRPI580141",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": -1696
+    },
+    {
+    "airline": "RYR",
+    "altitude": 11575,
+    "arrival": "LPA",
+    "arrival_position": [
+    27.9319,
+    -15.3866
+    ],
+    "departure": "SCQ",
+    "departure_position": [
+    42.8963,
+    -8.41514
+    ],
+    "flight": "FR7004",
+    "groundspeed": 290,
+    "heading": 177.6436170660586,
+    "id": "2144315940",
+    "latitude": 28.14459,
+    "longitude": -15.33533,
+    "registration": "EI-DYD",
+    "source": "ADSB",
+    "station": "EXTRPI004335",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -1280
+    },
+    {
+    "airline": "RYR",
+    "altitude": 32525,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "TSF",
+    "departure_position": [
+    45.6484,
+    12.1944
+    ],
+    "flight": "FR2598",
+    "groundspeed": 377,
+    "heading": 222.3685599976032,
+    "id": "2144315945",
+    "latitude": 37.5374,
+    "longitude": -3.44141,
+    "registration": "EI-HMV",
+    "source": "ADSB",
+    "station": "EXTRPI002627",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -1280
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "BVA",
+    "arrival_position": [
+    49.4544,
+    2.11278
+    ],
+    "departure": "RAK",
+    "departure_position": [
+    31.6069,
+    -8.0363
+    ],
+    "flight": "FR3845",
+    "groundspeed": 418,
+    "heading": 25.908627021981943,
+    "id": "2144316102",
+    "latitude": 43.04746,
+    "longitude": -1.99827,
+    "registration": "EI-IHW",
+    "source": "ADSB",
+    "station": "EXTRPI008705",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35800,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "TNG",
+    "departure_position": [
+    35.7269,
+    -5.91689
+    ],
+    "flight": "FR3451",
+    "groundspeed": 440,
+    "heading": 52.99466937384733,
+    "id": "2144316816",
+    "latitude": 42.94762,
+    "longitude": 5.31821,
+    "registration": "9H-QEQ",
+    "source": "ADSB",
+    "station": "PGANRB400610",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -380
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37900,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "VLC",
+    "departure_position": [
+    39.4893,
+    -0.481625
+    ],
+    "flight": "FR1739",
+    "groundspeed": 414,
+    "heading": 350.204450904654,
+    "id": "2144317144",
+    "latitude": 51.73137,
+    "longitude": -6.38187,
+    "registration": "EI-DYY",
+    "source": "ADSB",
+    "station": "EXTRPI004369",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -1024
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "BUD",
+    "arrival_position": [
+    47.4369,
+    19.2556
+    ],
+    "departure": "ACE",
+    "departure_position": [
+    28.9455,
+    -13.6052
+    ],
+    "flight": "FR4310",
+    "groundspeed": 486,
+    "heading": 64.16002400629674,
+    "id": "2144317334",
+    "latitude": 37.43514,
+    "longitude": -2.80409,
+    "registration": "SP-RSP",
+    "source": "ADSB",
+    "station": "EXTRPI004886",
+    "timestamp": 1713897880000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 26575,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "LIS",
+    "departure_position": [
+    38.7813,
+    -9.13592
+    ],
+    "flight": "FR1883",
+    "groundspeed": 300,
+    "heading": 16.184841870471587,
+    "id": "2144317468",
+    "latitude": 50.44272,
+    "longitude": -0.92589,
+    "registration": "EI-HGR",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -1600
+    },
+    {
+    "airline": "RYR",
+    "altitude": 32650,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "AGP",
+    "departure_position": [
+    36.6749,
+    -4.49911
+    ],
+    "flight": "FR8165",
+    "groundspeed": 344,
+    "heading": 11.735703602675812,
+    "id": "2144317573",
+    "latitude": 50.1086,
+    "longitude": -0.98841,
+    "registration": "EI-IHF",
+    "source": "ADSB",
+    "station": "EXTRPI007519",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": -1632
+    },
+    {
+    "airline": "RYR",
+    "arrival": "PMI",
+    "arrival_position": [
+    39.5517,
+    2.73881
+    ],
+    "departure": "DTM",
+    "departure_position": [
+    51.5183,
+    7.61224
+    ],
+    "flight": "FR2038",
+    "groundspeed": 7,
+    "heading": 239.59985685835977,
+    "id": "2144318014",
+    "latitude": 39.55165,
+    "longitude": 2.73767,
+    "registration": "EI-HEW",
+    "source": "ADSB",
+    "station": "EXTRPI610263",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR4845",
+    "groundspeed": 22,
+    "heading": 96.03603191931518,
+    "id": "2144318333",
+    "latitude": 53.42315,
+    "longitude": -6.27178,
+    "registration": "9H-QCZ",
+    "source": "ADSB",
+    "station": "EXTRPI210271",
+    "timestamp": 1713897856000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 12475,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "EDI",
+    "departure_position": [
+    55.95,
+    -3.3725
+    ],
+    "flight": "FR6274",
+    "groundspeed": 307,
+    "heading": 147.2975100554205,
+    "id": "2144318461",
+    "latitude": 41.88417,
+    "longitude": 2.42593,
+    "registration": "EI-GXG",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -1344
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37025,
+    "arrival": "EDI",
+    "arrival_position": [
+    55.95,
+    -3.3725
+    ],
+    "departure": "BCN",
+    "departure_position": [
+    41.2971,
+    2.07846
+    ],
+    "flight": "FR6267",
+    "groundspeed": 405,
+    "heading": 342.5343388582528,
+    "id": "2144318811",
+    "latitude": 52.90913,
+    "longitude": -1.74031,
+    "registration": "EI-HGH",
+    "source": "ADSB",
+    "station": "EXTRPI009932",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 31000,
+    "arrival": "BER",
+    "arrival_position": [
+    52.3667,
+    13.5033
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR263",
+    "groundspeed": 354,
+    "heading": 15.565710835419338,
+    "id": "2144318838",
+    "latitude": 50.62637,
+    "longitude": 13.19133,
+    "registration": "9H-VUQ",
+    "source": "ADSB",
+    "station": "EXTRPI007508",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "MAN",
+    "arrival_position": [
+    53.3537,
+    -2.27495
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR3442",
+    "groundspeed": 390,
+    "heading": 348.8013968604446,
+    "id": "2144319206",
+    "latitude": 51.67587,
+    "longitude": -0.66757,
+    "registration": "EI-EBD",
+    "source": "ADSB",
+    "station": "EXTRPI007519",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -128
+    },
+    {
+    "airline": "RYR",
+    "altitude": 3525,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "TRF",
+    "departure_position": [
+    59.1867,
+    10.2586
+    ],
+    "flight": "FR3588",
+    "groundspeed": 170,
+    "heading": 284.48562661182496,
+    "id": "2144319218",
+    "latitude": 45.6308,
+    "longitude": 9.90551,
+    "registration": "9H-QAG",
+    "source": "ADSB",
+    "station": "EXTRPI001948",
+    "timestamp": 1713897886000,
+    "type": "B738",
+    "verticalspeed": -890
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35025,
+    "arrival": "ALC",
+    "arrival_position": [
+    38.2822,
+    -0.558156
+    ],
+    "departure": "MAN",
+    "departure_position": [
+    53.3537,
+    -2.27495
+    ],
+    "flight": "FR4007",
+    "groundspeed": 480,
+    "heading": 192.4686009435503,
+    "id": "2144319248",
+    "latitude": 42.61446,
+    "longitude": 0.47329,
+    "registration": "EI-IFT",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": -192
+    },
+    {
+    "airline": "RYR",
+    "altitude": 16075,
+    "arrival": "VLC",
+    "arrival_position": [
+    39.4893,
+    -0.481625
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR1736",
+    "groundspeed": 384,
+    "heading": 121.02901231890166,
+    "id": "2144319253",
+    "latitude": 39.74258,
+    "longitude": -1.56298,
+    "registration": "EI-DWR",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -1856
+    },
+    {
+    "airline": "RYR",
+    "altitude": 11400,
+    "arrival": "PDL",
+    "arrival_position": [
+    37.7412,
+    -25.6979
+    ],
+    "departure": "LIS",
+    "departure_position": [
+    38.7813,
+    -9.13592
+    ],
+    "flight": "FR2625",
+    "groundspeed": 377,
+    "heading": 259.2193566831679,
+    "id": "2144319305",
+    "latitude": 37.99961,
+    "longitude": -25.34713,
+    "registration": "EI-GXI",
+    "source": "ADSB",
+    "station": "PGANRB501740",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "FAO",
+    "arrival_position": [
+    37.0144,
+    -7.96591
+    ],
+    "departure": "BFS",
+    "departure_position": [
+    54.6575,
+    -6.21583
+    ],
+    "flight": "FR9560",
+    "groundspeed": 510,
+    "heading": 162.32604358809124,
+    "id": "2144319584",
+    "latitude": 40.35311,
+    "longitude": -8.52133,
+    "registration": "EI-EFY",
+    "source": "ADSB",
+    "station": "EXTRPI009378",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "ALC",
+    "arrival_position": [
+    38.2822,
+    -0.558156
+    ],
+    "departure": "TRF",
+    "departure_position": [
+    59.1867,
+    10.2586
+    ],
+    "flight": "FR9068",
+    "groundspeed": 504,
+    "heading": 192.21544681215298,
+    "id": "2144319630",
+    "latitude": 45.3132,
+    "longitude": 1.3281,
+    "registration": "EI-HGL",
+    "source": "ADSB",
+    "station": "EXTRPI020485",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "ABZ",
+    "departure_position": [
+    57.2019,
+    -2.19778
+    ],
+    "flight": "FR8008",
+    "groundspeed": 470,
+    "heading": 171.61217753834387,
+    "id": "2144319716",
+    "latitude": 47.48491,
+    "longitude": -4.61468,
+    "registration": "EI-IHE",
+    "source": "ADSB",
+    "station": "EXTRPI010510",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "LPL",
+    "departure_position": [
+    53.3336,
+    -2.84972
+    ],
+    "flight": "FR9862",
+    "groundspeed": "",
+    "heading": 189.04334303705897,
+    "id": "2144319996",
+    "latitude": 38.85036,
+    "longitude": -4.57458,
+    "registration": "EI-EVC",
+    "source": "ADSB",
+    "station": "EXTRPI005656",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 8500,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "GDN",
+    "departure_position": [
+    54.3776,
+    18.4662
+    ],
+    "flight": "FR544",
+    "groundspeed": 230,
+    "heading": 279.41622605889563,
+    "id": "2144320148",
+    "latitude": 52.05331,
+    "longitude": 0.49125,
+    "registration": "SP-RSK",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -1152
+    },
+    {
+    "airline": "RYR",
+    "altitude": 2875,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "BTS",
+    "departure_position": [
+    48.1702,
+    17.2127
+    ],
+    "flight": "FR62",
+    "groundspeed": 158,
+    "heading": 41.14273729583903,
+    "id": "2144320372",
+    "latitude": 51.78191,
+    "longitude": 0.07987,
+    "registration": "SP-RSM",
+    "source": "ADSB",
+    "station": "EXTRPI007417",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -1312
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "NRN",
+    "arrival_position": [
+    51.6024,
+    6.14217
+    ],
+    "departure": "NDR",
+    "departure_position": [
+    34.9888,
+    -3.02821
+    ],
+    "flight": "FR6358",
+    "groundspeed": "",
+    "heading": 24.93701382952736,
+    "id": "2144320481",
+    "latitude": 44.91266,
+    "longitude": -0.77166,
+    "registration": "9H-QDO",
+    "source": "ADSB",
+    "station": "EXTRPI007425",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "VLC",
+    "arrival_position": [
+    39.4893,
+    -0.481625
+    ],
+    "departure": "FCO",
+    "departure_position": [
+    41.8045,
+    12.2508
+    ],
+    "flight": "FR999",
+    "groundspeed": "",
+    "heading": 260.0959909725716,
+    "id": "2144320631",
+    "latitude": 40.37364,
+    "longitude": 7.61353,
+    "registration": "9H-QEN",
+    "source": "ADSB",
+    "station": "EXTRPI007435",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 20850,
+    "arrival": "PMI",
+    "arrival_position": [
+    39.5517,
+    2.73881
+    ],
+    "departure": "MAN",
+    "departure_position": [
+    53.3537,
+    -2.27495
+    ],
+    "flight": "FR3441",
+    "groundspeed": 410,
+    "heading": 153.25966414419463,
+    "id": "2144320848",
+    "latitude": 40.66399,
+    "longitude": 3.0336,
+    "registration": "EI-IHZ",
+    "source": "ADSB",
+    "station": "EXTRPI021185",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -2110
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "EDI",
+    "arrival_position": [
+    55.95,
+    -3.3725
+    ],
+    "departure": "KRK",
+    "departure_position": [
+    50.0777,
+    19.7848
+    ],
+    "flight": "FR6625",
+    "groundspeed": 410,
+    "heading": 283.951546799865,
+    "id": "2144320882",
+    "latitude": 54.65648,
+    "longitude": 1.74327,
+    "registration": "SP-RZA",
+    "source": "ADSB",
+    "station": "EXTRPI001534",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "CFU",
+    "arrival_position": [
+    39.6019,
+    19.9117
+    ],
+    "departure": "KRK",
+    "departure_position": [
+    50.0777,
+    19.7848
+    ],
+    "flight": "FR6964",
+    "groundspeed": 370,
+    "heading": 175.88523950575222,
+    "id": "2144320980",
+    "latitude": 41.32088,
+    "longitude": 19.71684,
+    "registration": "SP-RKB",
+    "source": "ADSB",
+    "station": "EXTRPI071738",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 8300,
+    "arrival": "PMI",
+    "arrival_position": [
+    39.5517,
+    2.73881
+    ],
+    "departure": "BHX",
+    "departure_position": [
+    52.4539,
+    -1.74803
+    ],
+    "flight": "FR2162",
+    "groundspeed": 269,
+    "heading": 175.02552359492267,
+    "id": "2144321116",
+    "latitude": 39.87232,
+    "longitude": 3.06842,
+    "registration": "EI-IHK",
+    "source": "ADSB",
+    "station": "EXTRPI610263",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": -1792
+    },
+    {
+    "airline": "RYR",
+    "arrival": "FAO",
+    "arrival_position": [
+    37.0144,
+    -7.96591
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR7132",
+    "groundspeed": 482,
+    "heading": 175.39989992370943,
+    "id": "2144321386",
+    "latitude": 40.98324,
+    "longitude": -7.90754,
+    "registration": "EI-GXK",
+    "source": "ADSB",
+    "station": "EXTRPI006036",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "FCO",
+    "arrival_position": [
+    41.8045,
+    12.2508
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR9613",
+    "groundspeed": 451,
+    "heading": 137.22994782260514,
+    "id": "2144321472",
+    "latitude": 45.65053,
+    "longitude": 6.44402,
+    "registration": "EI-EMC",
+    "source": "ADSB",
+    "station": "EXTRPI001948",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "TSF",
+    "arrival_position": [
+    45.6484,
+    12.1944
+    ],
+    "departure": "TLL",
+    "departure_position": [
+    59.4133,
+    24.8328
+    ],
+    "flight": "FR330",
+    "groundspeed": 437,
+    "heading": 189.37830917433473,
+    "id": "2144321528",
+    "latitude": 48.98712,
+    "longitude": 13.20162,
+    "registration": "9H-QDK",
+    "source": "ADSB",
+    "station": "EXTRPI010481",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "VCE",
+    "departure_position": [
+    45.5053,
+    12.3519
+    ],
+    "flight": "FR830",
+    "groundspeed": 390,
+    "heading": 295.7242999099199,
+    "id": "2144321734",
+    "latitude": 51.94606,
+    "longitude": -2.20088,
+    "registration": "9H-QAX",
+    "source": "ADSB",
+    "station": "EXTRPI015256",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "LIS",
+    "departure_position": [
+    38.7813,
+    -9.13592
+    ],
+    "flight": "FR7389",
+    "groundspeed": "",
+    "heading": 349.94705095691387,
+    "id": "2144321815",
+    "latitude": 46.07564,
+    "longitude": -7.25489,
+    "registration": "EI-EMO",
+    "source": "ADSB",
+    "station": "EXTRPI001451",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 9675,
+    "arrival": "BVA",
+    "arrival_position": [
+    49.4544,
+    2.11278
+    ],
+    "departure": "BRI",
+    "departure_position": [
+    41.1389,
+    16.7606
+    ],
+    "flight": "FR3978",
+    "groundspeed": "",
+    "heading": 331.2957680129954,
+    "id": "2144321848",
+    "latitude": 48.53471,
+    "longitude": 4.08258,
+    "registration": "9H-QAL",
+    "source": "ADSB",
+    "station": "EXTRPI251987",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 5700,
+    "arrival": "RBA",
+    "arrival_position": [
+    34.0515,
+    -6.75152
+    ],
+    "departure": "MRS",
+    "departure_position": [
+    43.4393,
+    5.22142
+    ],
+    "flight": "FR7251",
+    "groundspeed": 239,
+    "heading": 217.54299036785417,
+    "id": "2144321852",
+    "latitude": 34.3029,
+    "longitude": -6.55489,
+    "registration": "9H-VVM",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": -1024
+    },
+    {
+    "airline": "RYR",
+    "arrival": "MAN",
+    "arrival_position": [
+    53.3537,
+    -2.27495
+    ],
+    "departure": "BER",
+    "departure_position": [
+    52.3667,
+    13.5033
+    ],
+    "flight": "FR1154",
+    "groundspeed": 10,
+    "heading": 48.66998825178655,
+    "id": "2144322284",
+    "latitude": 53.34777,
+    "longitude": -2.28267,
+    "registration": "9H-QBA",
+    "source": "ADSB",
+    "station": "EXTRPI000461",
+    "timestamp": 1713897888000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 19000,
+    "arrival": "CTA",
+    "arrival_position": [
+    37.4668,
+    15.0664
+    ],
+    "departure": "HHN",
+    "departure_position": [
+    49.9487,
+    7.26389
+    ],
+    "flight": "FR1558",
+    "groundspeed": "",
+    "heading": 133.49111593131846,
+    "id": "2144322478",
+    "latitude": 37.68626,
+    "longitude": 14.37836,
+    "registration": "9H-QDV",
+    "source": "ADSB",
+    "station": "EXTRPI015024",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35925,
+    "arrival": "SVQ",
+    "arrival_position": [
+    37.418,
+    -5.89311
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR8363",
+    "groundspeed": 455,
+    "heading": 189.53216601557844,
+    "id": "2144323111",
+    "latitude": 39.41899,
+    "longitude": -4.45519,
+    "registration": "EI-DLX",
+    "source": "ADSB",
+    "station": "EXTRPI003038",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -1024
+    },
+    {
+    "airline": "RYR",
+    "altitude": 33000,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "ARN",
+    "departure_position": [
+    59.6519,
+    17.9186
+    ],
+    "flight": "FR4680",
+    "groundspeed": 400,
+    "heading": 212.39472162057874,
+    "id": "2144323277",
+    "latitude": 47.02461,
+    "longitude": 12.48448,
+    "registration": "9H-QAN",
+    "source": "ADSB",
+    "station": "EXTRPI581822",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "arrival": "FCO",
+    "arrival_position": [
+    41.8045,
+    12.2508
+    ],
+    "departure": "EIN",
+    "departure_position": [
+    51.4501,
+    5.37453
+    ],
+    "flight": "FR5815",
+    "groundspeed": 12,
+    "heading": 56.758769549968406,
+    "id": "2144323387",
+    "latitude": 41.79901,
+    "longitude": 12.24396,
+    "registration": "9H-QDD",
+    "source": "ADSB",
+    "station": "EXTRPI002074",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 4050,
+    "arrival": "VLC",
+    "arrival_position": [
+    39.4893,
+    -0.481625
+    ],
+    "departure": "BRU",
+    "departure_position": [
+    50.9014,
+    4.48444
+    ],
+    "flight": "FR2985",
+    "groundspeed": 237,
+    "heading": 122.24783225553375,
+    "id": "2144323558",
+    "latitude": 39.58313,
+    "longitude": -0.72974,
+    "registration": "EI-DPK",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -1216
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38725,
+    "arrival": "SPU",
+    "arrival_position": [
+    43.5389,
+    16.298
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR1380",
+    "groundspeed": 440,
+    "heading": 123.80824361293651,
+    "id": "2144323599",
+    "latitude": 47.91445,
+    "longitude": 7.60916,
+    "registration": "EI-EKL",
+    "source": "ADSB",
+    "station": "EXTRPI233458",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 510
+    },
+    {
+    "airline": "RYR",
+    "arrival": "WRO",
+    "arrival_position": [
+    51.1027,
+    16.8858
+    ],
+    "departure": "CFU",
+    "departure_position": [
+    39.6019,
+    19.9117
+    ],
+    "flight": "FR88",
+    "groundspeed": 6,
+    "heading": 299.3412129245218,
+    "id": "2144323872",
+    "latitude": 51.10689,
+    "longitude": 16.88326,
+    "registration": "SP-RSE",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "BHX",
+    "departure_position": [
+    52.4539,
+    -1.74803
+    ],
+    "flight": "FR2266",
+    "groundspeed": 504,
+    "heading": 184.3250346980358,
+    "id": "2144324171",
+    "latitude": 42.20618,
+    "longitude": -4.22312,
+    "registration": "EI-EKD",
+    "source": "ADSB",
+    "station": "EXTRPI589233",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "WMI",
+    "departure_position": [
+    52.4511,
+    20.6518
+    ],
+    "flight": "FR6945",
+    "groundspeed": 440,
+    "heading": 230.01208809398108,
+    "id": "2144324178",
+    "latitude": 45.03668,
+    "longitude": 9.09507,
+    "registration": "EI-DPN",
+    "source": "ADSB",
+    "station": "EXTRPI023678",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "BUD",
+    "arrival_position": [
+    47.4369,
+    19.2556
+    ],
+    "departure": "EDI",
+    "departure_position": [
+    55.95,
+    -3.3725
+    ],
+    "flight": "FR1017",
+    "groundspeed": 479,
+    "heading": 116.13348789167338,
+    "id": "2144324487",
+    "latitude": 52.43413,
+    "longitude": 9.21188,
+    "registration": "SP-RZK",
+    "source": "ADSB",
+    "station": "EXTRPI147746",
+    "timestamp": 1713897894000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 10250,
+    "arrival": "VLC",
+    "arrival_position": [
+    39.4893,
+    -0.481625
+    ],
+    "departure": "TSF",
+    "departure_position": [
+    45.6484,
+    12.1944
+    ],
+    "flight": "FR7267",
+    "groundspeed": 280,
+    "heading": 240.22397222395884,
+    "id": "2144324493",
+    "latitude": 39.78917,
+    "longitude": -0.39716,
+    "registration": "EI-EBG",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": -1472
+    },
+    {
+    "airline": "RYR",
+    "altitude": 39000,
+    "arrival": "PMI",
+    "arrival_position": [
+    39.5517,
+    2.73881
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR9187",
+    "groundspeed": 476,
+    "heading": 154.34968037345868,
+    "id": "2144324525",
+    "latitude": 43.51028,
+    "longitude": 1.31502,
+    "registration": "EI-EVP",
+    "source": "ADSB",
+    "station": "EXTRPI010427",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "ARN",
+    "arrival_position": [
+    59.6519,
+    17.9186
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR3655",
+    "groundspeed": 452,
+    "heading": 17.19311268820161,
+    "id": "2144324600",
+    "latitude": 57.45319,
+    "longitude": 16.89538,
+    "registration": "9H-QAF",
+    "source": "ADSB",
+    "station": "EXTRPI251925",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "FMM",
+    "departure_position": [
+    47.9888,
+    10.2395
+    ],
+    "flight": "FR2405",
+    "groundspeed": "",
+    "heading": 136.74958061827812,
+    "id": "2144324625",
+    "latitude": 51.89478,
+    "longitude": 0.25949,
+    "registration": "EI-EBP",
+    "source": "ADSB",
+    "station": "EXTRPI016097",
+    "timestamp": 1713897887000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "WMI",
+    "departure_position": [
+    52.4511,
+    20.6518
+    ],
+    "flight": "FR2459",
+    "groundspeed": 440,
+    "heading": 264.31720497399033,
+    "id": "2144324626",
+    "latitude": 52.69429,
+    "longitude": 11.06857,
+    "registration": "SP-RSA",
+    "source": "ADSB",
+    "station": "EXTRPI008159",
+    "timestamp": 1713897894000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 25925,
+    "arrival": "PSA",
+    "arrival_position": [
+    43.6839,
+    10.3927
+    ],
+    "departure": "VLC",
+    "departure_position": [
+    39.4893,
+    -0.481625
+    ],
+    "flight": "FR9326",
+    "groundspeed": 383,
+    "heading": 2.077779617454439,
+    "id": "2144324709",
+    "latitude": 42.33138,
+    "longitude": 9.92889,
+    "registration": "EI-IFX",
+    "source": "ADSB",
+    "station": "EXTRPI002074",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": -1696
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "ALC",
+    "arrival_position": [
+    38.2822,
+    -0.558156
+    ],
+    "departure": "GLA",
+    "departure_position": [
+    55.8719,
+    -4.43306
+    ],
+    "flight": "FR2522",
+    "groundspeed": 487,
+    "heading": 163.56763537541622,
+    "id": "2144324917",
+    "latitude": 50.22456,
+    "longitude": -0.14253,
+    "registration": "EI-HGV",
+    "source": "ADSB",
+    "station": "EXTRPI009932",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "WRO",
+    "arrival_position": [
+    51.1027,
+    16.8858
+    ],
+    "departure": "MAN",
+    "departure_position": [
+    53.3537,
+    -2.27495
+    ],
+    "flight": "FR8308",
+    "groundspeed": 467,
+    "heading": 103.51903007963028,
+    "id": "2144324971",
+    "latitude": 52.02795,
+    "longitude": 11.23815,
+    "registration": "SP-RZI",
+    "source": "ADSB",
+    "station": "EXTSHA193102",
+    "timestamp": 1713897890213,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "ALC",
+    "departure_position": [
+    38.2822,
+    -0.558156
+    ],
+    "flight": "FR7763",
+    "groundspeed": 420,
+    "heading": 332.8036347251133,
+    "id": "2144325510",
+    "latitude": 47.75427,
+    "longitude": -2.20091,
+    "registration": "EI-HAX",
+    "source": "ADSB",
+    "station": "EXTRPI001473",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38025,
+    "arrival": "MAN",
+    "arrival_position": [
+    53.3537,
+    -2.27495
+    ],
+    "departure": "ZAG",
+    "departure_position": [
+    45.7429,
+    16.0688
+    ],
+    "flight": "FR2183",
+    "groundspeed": 410,
+    "heading": 305.9563774941788,
+    "id": "2144325746",
+    "latitude": 52.22383,
+    "longitude": 0.25551,
+    "registration": "9H-LAX",
+    "source": "ADSB",
+    "station": "EXTRPI005474",
+    "timestamp": 1713897889000,
+    "type": "A320",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "arrival": "EMA",
+    "arrival_position": [
+    52.8311,
+    -1.32806
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR1703",
+    "groundspeed": 10,
+    "heading": 121.27073271362843,
+    "id": "2144325792",
+    "latitude": 52.82909,
+    "longitude": -1.3317,
+    "registration": "EI-EME",
+    "source": "ADSB",
+    "station": "EXTRPI009932",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 875,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "NTE",
+    "departure_position": [
+    47.1532,
+    -1.61073
+    ],
+    "flight": "FR8504",
+    "groundspeed": 137,
+    "heading": 43.87257607689094,
+    "id": "2144326003",
+    "latitude": 51.85012,
+    "longitude": 0.18257,
+    "registration": "EI-DWV",
+    "source": "ADSB",
+    "station": "EXTRPI007417",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -700
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "RAK",
+    "arrival_position": [
+    31.6069,
+    -8.0363
+    ],
+    "departure": "MRS",
+    "departure_position": [
+    43.4393,
+    5.22142
+    ],
+    "flight": "FR8063",
+    "groundspeed": 420,
+    "heading": 219.423956163384,
+    "id": "2144326011",
+    "latitude": 35.90714,
+    "longitude": -5.06931,
+    "registration": "EI-HGT",
+    "source": "ADSB",
+    "station": "EXTRPI005759",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "AMS",
+    "arrival_position": [
+    52.3086,
+    4.76389
+    ],
+    "departure": "AGP",
+    "departure_position": [
+    36.6749,
+    -4.49911
+    ],
+    "flight": "FR2334",
+    "groundspeed": 403,
+    "heading": 25.474530934187158,
+    "id": "2144326034",
+    "latitude": 46.15814,
+    "longitude": 0.05915,
+    "registration": "EI-HGN",
+    "source": "ADSB",
+    "station": "EXTRPI001473",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 33000,
+    "arrival": "CIA",
+    "arrival_position": [
+    41.7994,
+    12.5949
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR3002",
+    "groundspeed": 407,
+    "heading": 140.01479353213773,
+    "id": "2144326182",
+    "latitude": 44.0744,
+    "longitude": 10.87483,
+    "registration": "EI-EKC",
+    "source": "ADSB",
+    "station": "EXTRPI610171",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR7054",
+    "groundspeed": 477,
+    "heading": 184.40080881668794,
+    "id": "2144326731",
+    "latitude": 43.0112,
+    "longitude": -4.13578,
+    "registration": "9H-QAW",
+    "source": "ADSB",
+    "station": "EXTRPI007113",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "CIA",
+    "arrival_position": [
+    41.7994,
+    12.5949
+    ],
+    "departure": "LDE",
+    "departure_position": [
+    43.1787,
+    -0.006439
+    ],
+    "flight": "FR4574",
+    "groundspeed": 34,
+    "heading": 152.17447002848473,
+    "id": "2144326900",
+    "latitude": 41.79232,
+    "longitude": 12.59972,
+    "registration": "9H-QCE",
+    "source": "ADSB",
+    "station": "EXTRPI595711",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "GLA",
+    "departure_position": [
+    55.8719,
+    -4.43306
+    ],
+    "flight": "FR2609",
+    "groundspeed": 461,
+    "heading": 167.85845583466653,
+    "id": "2144326916",
+    "latitude": 48.01747,
+    "longitude": -4.30108,
+    "registration": "EI-EPC",
+    "source": "ADSB",
+    "station": "EXTRPI576842",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 25000,
+    "arrival": "OTP",
+    "arrival_position": [
+    44.5722,
+    26.1022
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR3772",
+    "groundspeed": 370,
+    "heading": 102.71146949330296,
+    "id": "2144327370",
+    "latitude": 44.97707,
+    "longitude": 23.29893,
+    "registration": "9H-QET",
+    "source": "ADSB",
+    "station": "PGANRB500557",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "arrival": "FCO",
+    "arrival_position": [
+    41.8045,
+    12.2508
+    ],
+    "departure": "AGP",
+    "departure_position": [
+    36.6749,
+    -4.49911
+    ],
+    "flight": "FR6139",
+    "groundspeed": "",
+    "heading": 69.12865194821171,
+    "id": "2144327459",
+    "latitude": 40.82433,
+    "longitude": 8.69061,
+    "registration": "EI-EVA",
+    "source": "ADSB",
+    "station": "EXTRPI007435",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "FAO",
+    "departure_position": [
+    37.0144,
+    -7.96591
+    ],
+    "flight": "FR7133",
+    "groundspeed": "",
+    "heading": 349.3692750097387,
+    "id": "2144327486",
+    "latitude": 45.58856,
+    "longitude": -7.16329,
+    "registration": "EI-EBL",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897877000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "RAK",
+    "arrival_position": [
+    31.6069,
+    -8.0363
+    ],
+    "departure": "BOD",
+    "departure_position": [
+    44.8283,
+    -0.715556
+    ],
+    "flight": "FR60",
+    "groundspeed": "",
+    "heading": 216.12569879431985,
+    "id": "2144327752",
+    "latitude": 35.09066,
+    "longitude": -5.82161,
+    "registration": "EI-EVN",
+    "source": "ADSB",
+    "station": "EXTRPI021020",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "GDN",
+    "arrival_position": [
+    54.3776,
+    18.4662
+    ],
+    "departure": "CFU",
+    "departure_position": [
+    39.6019,
+    19.9117
+    ],
+    "flight": "FR7575",
+    "groundspeed": 475,
+    "heading": 352.7869940949337,
+    "id": "2144327838",
+    "latitude": 48.62437,
+    "longitude": 19.65736,
+    "registration": "SP-RKT",
+    "source": "ADSB",
+    "station": "EXTRPI004434",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "WRO",
+    "departure_position": [
+    51.1027,
+    16.8858
+    ],
+    "flight": "FR99",
+    "groundspeed": 407,
+    "heading": 282.543428170386,
+    "id": "2144327876",
+    "latitude": 52.57082,
+    "longitude": 6.62849,
+    "registration": "SP-RSO",
+    "source": "ADSB",
+    "station": "EXTRPI004487",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "POZ",
+    "arrival_position": [
+    52.421,
+    16.8263
+    ],
+    "departure": "CAG",
+    "departure_position": [
+    39.2515,
+    9.05428
+    ],
+    "flight": "FR7221",
+    "groundspeed": 460,
+    "heading": 22.718085151223477,
+    "id": "2144327947",
+    "latitude": 48.49291,
+    "longitude": 16.02667,
+    "registration": "SP-RSL",
+    "source": "ADSB",
+    "station": "EXTRPI010525",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "KRK",
+    "departure_position": [
+    50.0777,
+    19.7848
+    ],
+    "flight": "FR2433",
+    "groundspeed": 420,
+    "heading": 273.02812088291194,
+    "id": "2144328062",
+    "latitude": 51.91603,
+    "longitude": 5.35233,
+    "registration": "SP-RKY",
+    "source": "ADSB",
+    "station": "EXTRPI001097",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "VCE",
+    "arrival_position": [
+    45.5053,
+    12.3519
+    ],
+    "departure": "MAD",
+    "departure_position": [
+    40.4936,
+    -3.56676
+    ],
+    "flight": "FR849",
+    "groundspeed": 460,
+    "heading": 65.6489710944137,
+    "id": "2144328074",
+    "latitude": 43.7623,
+    "longitude": 7.57878,
+    "registration": "EI-EBK",
+    "source": "ADSB",
+    "station": "EXTRPI001948",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 39025,
+    "arrival": "AHO",
+    "arrival_position": [
+    40.6321,
+    8.29077
+    ],
+    "departure": "BUD",
+    "departure_position": [
+    47.4369,
+    19.2556
+    ],
+    "flight": "FR4752",
+    "groundspeed": 426,
+    "heading": 224.19799884603444,
+    "id": "2144328087",
+    "latitude": 42.69073,
+    "longitude": 12.62227,
+    "registration": "SP-RKG",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "arrival": "BRU",
+    "arrival_position": [
+    50.9014,
+    4.48444
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR1452",
+    "groundspeed": 1,
+    "heading": 148.21764581964794,
+    "id": "2144328184",
+    "latitude": 50.90028,
+    "longitude": 4.48587,
+    "registration": "EI-DWP",
+    "source": "ADSB",
+    "station": "EXTRPI146984",
+    "timestamp": 1713897856000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "LIS",
+    "arrival_position": [
+    38.7813,
+    -9.13592
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR2087",
+    "groundspeed": 453,
+    "heading": 246.61682438141565,
+    "id": "2144328292",
+    "latitude": 41.5778,
+    "longitude": -5.06208,
+    "registration": "9H-QCQ",
+    "source": "ADSB",
+    "station": "EXTRPI015883",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 29000,
+    "arrival": "MRS",
+    "arrival_position": [
+    43.4393,
+    5.22142
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR6543",
+    "groundspeed": 397,
+    "heading": 147.50083112663344,
+    "id": "2144328407",
+    "latitude": 45.05717,
+    "longitude": 4.22759,
+    "registration": "EI-DCN",
+    "source": "ADSB",
+    "station": "EXTRPI003427",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -96
+    },
+    {
+    "airline": "RYR",
+    "altitude": 40000,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "POZ",
+    "departure_position": [
+    52.421,
+    16.8263
+    ],
+    "flight": "FR2337",
+    "groundspeed": 451,
+    "heading": 264.2718183669556,
+    "id": "2144328495",
+    "latitude": 52.25545,
+    "longitude": 6.96839,
+    "registration": "SP-RZB",
+    "source": "ADSB",
+    "station": "EXTRPI004487",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 2525,
+    "arrival": "CPH",
+    "arrival_position": [
+    55.6179,
+    12.656
+    ],
+    "departure": "BUD",
+    "departure_position": [
+    47.4369,
+    19.2556
+    ],
+    "flight": "FR80",
+    "groundspeed": 179,
+    "heading": 220.32459856772022,
+    "id": "2144328736",
+    "latitude": 55.71666,
+    "longitude": 12.80956,
+    "registration": "SP-RSW",
+    "source": "ADSB",
+    "station": "EXTRPI004049",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -1056
+    },
+    {
+    "airline": "RYR",
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "BVA",
+    "departure_position": [
+    49.4544,
+    2.11278
+    ],
+    "flight": "FR1861",
+    "groundspeed": 9,
+    "heading": 69.97522657507812,
+    "id": "2144328886",
+    "latitude": 53.42798,
+    "longitude": -6.25222,
+    "registration": "9H-VVS",
+    "source": "ADSB",
+    "station": "EXTRPI210271",
+    "timestamp": 1713897886000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "BUD",
+    "arrival_position": [
+    47.4369,
+    19.2556
+    ],
+    "departure": "BCN",
+    "departure_position": [
+    41.2971,
+    2.07846
+    ],
+    "flight": "FR8384",
+    "groundspeed": 450,
+    "heading": 66.06165112406586,
+    "id": "2144329048",
+    "latitude": 43.74285,
+    "longitude": 7.75543,
+    "registration": "SP-RKP",
+    "source": "ADSB",
+    "station": "EXTRPI008601",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "IBZ",
+    "arrival_position": [
+    38.8729,
+    1.37312
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR9253",
+    "groundspeed": 476,
+    "heading": 171.0047278343195,
+    "id": "2144329216",
+    "latitude": 45.08308,
+    "longitude": 1.45131,
+    "registration": "EI-DWG",
+    "source": "ADSB",
+    "station": "EXTRPI007425",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR8164",
+    "groundspeed": 490,
+    "heading": 184.63311721073842,
+    "id": "2144329257",
+    "latitude": 42.69795,
+    "longitude": -4.17,
+    "registration": "EI-EVF",
+    "source": "ADSB",
+    "station": "EXTRPI007113",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 12725,
+    "arrival": "BUD",
+    "arrival_position": [
+    47.4369,
+    19.2556
+    ],
+    "departure": "CIA",
+    "departure_position": [
+    41.7994,
+    12.5949
+    ],
+    "flight": "FR8246",
+    "groundspeed": 301,
+    "heading": 63.7401176365027,
+    "id": "2144329295",
+    "latitude": 47.02593,
+    "longitude": 18.80832,
+    "registration": "SP-RSS",
+    "source": "ADSB",
+    "station": "EXTRPI000766",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -1568
+    },
+    {
+    "airline": "RYR",
+    "altitude": 41000,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "GOT",
+    "departure_position": [
+    57.6628,
+    12.2798
+    ],
+    "flight": "FR3664",
+    "groundspeed": 451,
+    "heading": 182.3798378035512,
+    "id": "2144329615",
+    "latitude": 49.63544,
+    "longitude": 10.68101,
+    "registration": "EI-EKV",
+    "source": "ADSB",
+    "station": "EXTSHA193102",
+    "timestamp": 1713897890506,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 17325,
+    "arrival": "FCO",
+    "arrival_position": [
+    41.8045,
+    12.2508
+    ],
+    "departure": "BOD",
+    "departure_position": [
+    44.8283,
+    -0.715556
+    ],
+    "flight": "FR7180",
+    "groundspeed": 320,
+    "heading": 137.18150812101135,
+    "id": "2144329642",
+    "latitude": 42.32332,
+    "longitude": 11.57229,
+    "registration": "9H-QCD",
+    "source": "ADSB",
+    "station": "EXTRPI004198",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -1632
+    },
+    {
+    "airline": "RYR",
+    "arrival": "FAO",
+    "arrival_position": [
+    37.0144,
+    -7.96591
+    ],
+    "departure": "ORK",
+    "departure_position": [
+    51.8413,
+    -8.49111
+    ],
+    "flight": "FR9947",
+    "groundspeed": 488,
+    "heading": 178.45625931312838,
+    "id": "2144329777",
+    "latitude": 42.64259,
+    "longitude": -7.75354,
+    "registration": "EI-IFR",
+    "source": "ADSB",
+    "station": "EXTRPI011185",
+    "timestamp": 1713897894000,
+    "type": "B38M",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "BER",
+    "arrival_position": [
+    52.3667,
+    13.5033
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR5418",
+    "groundspeed": 450,
+    "heading": 96.3339032992086,
+    "id": "2144329943",
+    "latitude": 52.99735,
+    "longitude": 8.39355,
+    "registration": "9H-QBC",
+    "source": "ADSB",
+    "station": "EXTRPI010062",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 30725,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "ZAD",
+    "departure_position": [
+    44.1083,
+    15.3467
+    ],
+    "flight": "FR8468",
+    "groundspeed": 384,
+    "heading": 298.8420148886531,
+    "id": "2144330175",
+    "latitude": 51.31802,
+    "longitude": 3.48648,
+    "registration": "9H-LOQ",
+    "source": "ADSB",
+    "station": "EXTRPI141039",
+    "timestamp": 1713897890000,
+    "type": "A320",
+    "verticalspeed": -1280
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "RAK",
+    "arrival_position": [
+    31.6069,
+    -8.0363
+    ],
+    "departure": "FNI",
+    "departure_position": [
+    43.7574,
+    4.41635
+    ],
+    "flight": "FR1351",
+    "groundspeed": 410,
+    "heading": 226.0216047129145,
+    "id": "2144330346",
+    "latitude": 37.85577,
+    "longitude": -3.02574,
+    "registration": "EI-IGX",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "FUE",
+    "departure_position": [
+    28.4527,
+    -13.8638
+    ],
+    "flight": "FR610",
+    "groundspeed": 420,
+    "heading": 17.28405153435841,
+    "id": "2144330351",
+    "latitude": 38.6026,
+    "longitude": -9.94812,
+    "registration": "EI-HEZ",
+    "source": "ADSB",
+    "station": "EXTRPI000474",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35975,
+    "arrival": "SNN",
+    "arrival_position": [
+    52.702,
+    -8.92482
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR1169",
+    "groundspeed": 395,
+    "heading": 339.9241581612703,
+    "id": "2144330404",
+    "latitude": 42.30947,
+    "longitude": 1.1155,
+    "registration": "EI-EKT",
+    "source": "ADSB",
+    "station": "EXTRPI010427",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -60
+    },
+    {
+    "airline": "RYR",
+    "arrival": "TFN",
+    "arrival_position": [
+    28.4827,
+    -16.3415
+    ],
+    "departure": "SVQ",
+    "departure_position": [
+    37.418,
+    -5.89311
+    ],
+    "flight": "FR1162",
+    "groundspeed": "",
+    "heading": 216.3147584305458,
+    "id": "2144330631",
+    "latitude": 31.29358,
+    "longitude": -14.07305,
+    "registration": "EI-DHE",
+    "source": "ADSB",
+    "station": "PGANRB501013",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 5500,
+    "arrival": "TLS",
+    "arrival_position": [
+    43.6291,
+    1.36382
+    ],
+    "departure": "FCO",
+    "departure_position": [
+    41.8045,
+    12.2508
+    ],
+    "flight": "FR7648",
+    "groundspeed": 225,
+    "heading": 261.5566679077138,
+    "id": "2144330775",
+    "latitude": 43.48883,
+    "longitude": 1.66992,
+    "registration": "9H-QER",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -1344
+    },
+    {
+    "airline": "RYR",
+    "altitude": 11125,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR3673",
+    "groundspeed": 233,
+    "heading": 27.434277839151207,
+    "id": "2144330784",
+    "latitude": 51.84416,
+    "longitude": -0.05806,
+    "registration": "9H-VUI",
+    "source": "ADSB",
+    "station": "EXTRPI584461",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": -1020
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "ALC",
+    "arrival_position": [
+    38.2822,
+    -0.558156
+    ],
+    "departure": "KLU",
+    "departure_position": [
+    46.6425,
+    14.3377
+    ],
+    "flight": "FR225",
+    "groundspeed": 454,
+    "heading": 207.3782755242845,
+    "id": "2144330936",
+    "latitude": 41.43894,
+    "longitude": 3.66879,
+    "registration": "EI-DCL",
+    "source": "ADSB",
+    "station": "EXTRPI004403",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 20000,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "PSA",
+    "departure_position": [
+    43.6839,
+    10.3927
+    ],
+    "flight": "FR589",
+    "groundspeed": 280,
+    "heading": 325.7889997116589,
+    "id": "2144331010",
+    "latitude": 51.0639,
+    "longitude": 0.06462,
+    "registration": "EI-HET",
+    "source": "ADSB",
+    "station": "EXTRPI000445",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "VNO",
+    "departure_position": [
+    54.6341,
+    25.2858
+    ],
+    "flight": "FR1787",
+    "groundspeed": 412,
+    "heading": 236.7832234484299,
+    "id": "2144331038",
+    "latitude": 48.77609,
+    "longitude": 16.52879,
+    "registration": "EI-DYC",
+    "source": "ADSB",
+    "station": "EXTSHA193102",
+    "timestamp": 1713897890318,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "SNN",
+    "arrival_position": [
+    52.702,
+    -8.92482
+    ],
+    "departure": "KRK",
+    "departure_position": [
+    50.0777,
+    19.7848
+    ],
+    "flight": "FR3326",
+    "groundspeed": 440,
+    "heading": 276.9641744864827,
+    "id": "2144331255",
+    "latitude": 51.42178,
+    "longitude": 11.85566,
+    "registration": "EI-IHS",
+    "source": "ADSB",
+    "station": "EXTRPI027234",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "SVQ",
+    "departure_position": [
+    37.418,
+    -5.89311
+    ],
+    "flight": "FR6445",
+    "groundspeed": 373,
+    "heading": 25.8436907059953,
+    "id": "2144331307",
+    "latitude": 45.64073,
+    "longitude": -0.30896,
+    "registration": "EI-DYE",
+    "source": "ADSB",
+    "station": "EXTRPI010426",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "LPL",
+    "departure_position": [
+    53.3336,
+    -2.84972
+    ],
+    "flight": "FR6558",
+    "groundspeed": "",
+    "heading": 171.2435522288382,
+    "id": "2144331474",
+    "latitude": 44.79295,
+    "longitude": 1.52409,
+    "registration": "EI-DWM",
+    "source": "ADSB",
+    "station": "EXTRPI010427",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "MAN",
+    "arrival_position": [
+    53.3537,
+    -2.27495
+    ],
+    "departure": "BCN",
+    "departure_position": [
+    41.2971,
+    2.07846
+    ],
+    "flight": "FR7545",
+    "groundspeed": 399,
+    "heading": 339.68292783261654,
+    "id": "2144331690",
+    "latitude": 44.08404,
+    "longitude": 0.60294,
+    "registration": "EI-EKX",
+    "source": "ADSB",
+    "station": "EXTRPI008923",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "BUD",
+    "arrival_position": [
+    47.4369,
+    19.2556
+    ],
+    "departure": "BRS",
+    "departure_position": [
+    51.3827,
+    -2.71909
+    ],
+    "flight": "FR4133",
+    "groundspeed": 451,
+    "heading": 100.03294933857995,
+    "id": "2144331767",
+    "latitude": 50.40267,
+    "longitude": 7.34161,
+    "registration": "EI-DWD",
+    "source": "ADSB",
+    "station": "EXTRPI007652",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "arrival": "BUD",
+    "arrival_position": [
+    47.4369,
+    19.2556
+    ],
+    "departure": "BER",
+    "departure_position": [
+    52.3667,
+    13.5033
+    ],
+    "flight": "FR206",
+    "groundspeed": "",
+    "heading": 219.42361465392548,
+    "id": "2144332094",
+    "latitude": 47.43588,
+    "longitude": 19.26345,
+    "registration": "9H-QAT",
+    "source": "ADSB",
+    "station": "EXTRPI026712",
+    "timestamp": 1713897841000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "OPO",
+    "departure_position": [
+    41.2481,
+    -8.68139
+    ],
+    "flight": "FR7699",
+    "groundspeed": 396,
+    "heading": 30.78437292892113,
+    "id": "2144332272",
+    "latitude": 48.85257,
+    "longitude": -2.21468,
+    "registration": "EI-ENE",
+    "source": "ADSB",
+    "station": "PGANRB500917",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "MAN",
+    "departure_position": [
+    53.3537,
+    -2.27495
+    ],
+    "flight": "FR693",
+    "groundspeed": 470,
+    "heading": 122.2002668181538,
+    "id": "2144332367",
+    "latitude": 51.35661,
+    "longitude": 6.39412,
+    "registration": "9H-LOR",
+    "source": "ADSB",
+    "station": "EXTRPI026815",
+    "timestamp": 1713897894000,
+    "type": "A320",
+    "verticalspeed": -128
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "POZ",
+    "departure_position": [
+    52.421,
+    16.8263
+    ],
+    "flight": "FR1975",
+    "groundspeed": 413,
+    "heading": 279.94347568168564,
+    "id": "2144332479",
+    "latitude": 53.17746,
+    "longitude": 3.47394,
+    "registration": "SP-RSY",
+    "source": "ADSB",
+    "station": "EXTRPI598891",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 34000,
+    "arrival": "BER",
+    "arrival_position": [
+    52.3667,
+    13.5033
+    ],
+    "departure": "CTA",
+    "departure_position": [
+    37.4668,
+    15.0664
+    ],
+    "flight": "FR1577",
+    "groundspeed": 451,
+    "heading": 358.6263104331363,
+    "id": "2144332492",
+    "latitude": 40.95396,
+    "longitude": 14.62468,
+    "registration": "9H-QDQ",
+    "source": "ADSB",
+    "station": "EXTRPI595711",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "RBA",
+    "departure_position": [
+    34.0515,
+    -6.75152
+    ],
+    "flight": "FR6933",
+    "groundspeed": 401,
+    "heading": 24.2196441836428,
+    "id": "2144332683",
+    "latitude": 41.76252,
+    "longitude": -2.99831,
+    "registration": "EI-DHR",
+    "source": "ADSB",
+    "station": "EXTRPI004300",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "OPO",
+    "arrival_position": [
+    41.2481,
+    -8.68139
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR4042",
+    "groundspeed": 425,
+    "heading": 286.63824952121365,
+    "id": "2144332767",
+    "latitude": 42.10296,
+    "longitude": -1.23226,
+    "registration": "EI-ENT",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 34000,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "BOD",
+    "departure_position": [
+    44.8283,
+    -0.715556
+    ],
+    "flight": "FR1783",
+    "groundspeed": 360,
+    "heading": 356.30668150113456,
+    "id": "2144332771",
+    "latitude": 48.94991,
+    "longitude": -1.03687,
+    "registration": "EI-EBX",
+    "source": "ADSB",
+    "station": "EXTRPI010514",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35050,
+    "arrival": "PMI",
+    "arrival_position": [
+    39.5517,
+    2.73881
+    ],
+    "departure": "EIN",
+    "departure_position": [
+    51.4501,
+    5.37453
+    ],
+    "flight": "FR3532",
+    "groundspeed": 478,
+    "heading": 175.48358340142045,
+    "id": "2144332892",
+    "latitude": 43.05961,
+    "longitude": 2.7662,
+    "registration": "EI-HMZ",
+    "source": "ADSB",
+    "station": "EXTRPI026645",
+    "timestamp": 1713897889000,
+    "type": "B38M",
+    "verticalspeed": 256
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "MLA",
+    "arrival_position": [
+    35.8575,
+    14.4775
+    ],
+    "departure": "MRS",
+    "departure_position": [
+    43.4393,
+    5.22142
+    ],
+    "flight": "FR7796",
+    "groundspeed": 450,
+    "heading": 138.5371640674755,
+    "id": "2144333055",
+    "latitude": 37.95721,
+    "longitude": 11.67081,
+    "registration": "9H-QDC",
+    "source": "ADSB",
+    "station": "EXTRPI001794",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "CIA",
+    "arrival_position": [
+    41.7994,
+    12.5949
+    ],
+    "departure": "WMI",
+    "departure_position": [
+    52.4511,
+    20.6518
+    ],
+    "flight": "FR7026",
+    "groundspeed": 410,
+    "heading": 207.05067233093402,
+    "id": "2144333255",
+    "latitude": 45.78189,
+    "longitude": 16.53937,
+    "registration": "9H-VVK",
+    "source": "ADSB",
+    "station": "EXTRPI015048",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 27375,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "FAO",
+    "departure_position": [
+    37.0144,
+    -7.96591
+    ],
+    "flight": "FR6421",
+    "groundspeed": 426,
+    "heading": 99.10759530982659,
+    "id": "2144333262",
+    "latitude": 41.30013,
+    "longitude": -0.07135,
+    "registration": "EI-IHR",
+    "source": "ADSB",
+    "station": "EXTRPI021185",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": -1024
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "BER",
+    "departure_position": [
+    52.3667,
+    13.5033
+    ],
+    "flight": "FR132",
+    "groundspeed": 470,
+    "heading": 206.5586255031263,
+    "id": "2144333349",
+    "latitude": 45.95796,
+    "longitude": 6.33965,
+    "registration": "EI-DCM",
+    "source": "ADSB",
+    "station": "EXTRPI005280",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "BLQ",
+    "arrival_position": [
+    44.5354,
+    11.2887
+    ],
+    "departure": "BCN",
+    "departure_position": [
+    41.2971,
+    2.07846
+    ],
+    "flight": "FR9366",
+    "groundspeed": 460,
+    "heading": 15.721379384340366,
+    "id": "2144333351",
+    "latitude": 41.72832,
+    "longitude": 10.10667,
+    "registration": "EI-EMH",
+    "source": "ADSB",
+    "station": "EXTRPI595711",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "arrival": "LIS",
+    "arrival_position": [
+    38.7813,
+    -9.13592
+    ],
+    "departure": "FCO",
+    "departure_position": [
+    41.8045,
+    12.2508
+    ],
+    "flight": "FR9907",
+    "groundspeed": 9,
+    "heading": 295.79261546199837,
+    "id": "2144333923",
+    "latitude": 41.79848,
+    "longitude": 12.26046,
+    "registration": "EI-ENV",
+    "source": "ADSB",
+    "station": "EXTRPI002074",
+    "timestamp": 1713897879000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 40375,
+    "arrival": "FAO",
+    "arrival_position": [
+    37.0144,
+    -7.96591
+    ],
+    "departure": "EDI",
+    "departure_position": [
+    55.95,
+    -3.3725
+    ],
+    "flight": "FR5689",
+    "groundspeed": "",
+    "heading": 191.54718110375893,
+    "id": "2144333971",
+    "latitude": 49.70522,
+    "longitude": -8.6638,
+    "registration": "EI-IGL",
+    "source": "ADSB",
+    "station": "EXTRPI591151",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": -96
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "SOF",
+    "arrival_position": [
+    42.6967,
+    23.4114
+    ],
+    "departure": "EIN",
+    "departure_position": [
+    51.4501,
+    5.37453
+    ],
+    "flight": "FR6014",
+    "groundspeed": 439,
+    "heading": 124.78539779635526,
+    "id": "2144333975",
+    "latitude": 47.23792,
+    "longitude": 14.51301,
+    "registration": "SP-RNC",
+    "source": "ADSB",
+    "station": "EXTRPI008611",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "arrival": "TRN",
+    "arrival_position": [
+    45.2008,
+    7.64963
+    ],
+    "departure": "NAP",
+    "departure_position": [
+    40.886,
+    14.2908
+    ],
+    "flight": "FR872",
+    "groundspeed": "",
+    "heading": 180.49501978132952,
+    "id": "2144333976",
+    "latitude": 45.1953,
+    "longitude": 7.64685,
+    "registration": "9H-QAM",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897819000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "PMI",
+    "arrival_position": [
+    39.5517,
+    2.73881
+    ],
+    "departure": "CGN",
+    "departure_position": [
+    50.8659,
+    7.14274
+    ],
+    "flight": "FR8664",
+    "groundspeed": 480,
+    "heading": 181.20703968154666,
+    "id": "2144334152",
+    "latitude": 48.31522,
+    "longitude": 6.68973,
+    "registration": "EI-IGM",
+    "source": "ADSB",
+    "station": "EXTRPI001415",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "FCO",
+    "arrival_position": [
+    41.8045,
+    12.2508
+    ],
+    "departure": "BVA",
+    "departure_position": [
+    49.4544,
+    2.11278
+    ],
+    "flight": "FR200",
+    "groundspeed": 440,
+    "heading": 150.80180691098724,
+    "id": "2144334196",
+    "latitude": 44.19842,
+    "longitude": 10.20509,
+    "registration": "9H-QFD",
+    "source": "ADSB",
+    "station": "EXTRPI013749",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "GOT",
+    "arrival_position": [
+    57.6628,
+    12.2798
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR966",
+    "groundspeed": 433,
+    "heading": 53.41645746075767,
+    "id": "2144334209",
+    "latitude": 56.22169,
+    "longitude": 8.68478,
+    "registration": "EI-DHH",
+    "source": "ADSB",
+    "station": "PGANRB501688",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36950,
+    "arrival": "FKB",
+    "arrival_position": [
+    48.7794,
+    8.0805
+    ],
+    "departure": "ALC",
+    "departure_position": [
+    38.2822,
+    -0.558156
+    ],
+    "flight": "FR5959",
+    "groundspeed": 430,
+    "heading": 31.531612699593495,
+    "id": "2144334217",
+    "latitude": 43.9893,
+    "longitude": 6.08054,
+    "registration": "9H-QBP",
+    "source": "ADSB",
+    "station": "EXTRPI015537",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -1400
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37025,
+    "arrival": "SVQ",
+    "arrival_position": [
+    37.418,
+    -5.89311
+    ],
+    "departure": "MXP",
+    "departure_position": [
+    45.6306,
+    8.72811
+    ],
+    "flight": "FR1205",
+    "groundspeed": 452,
+    "heading": 227.6017279962619,
+    "id": "2144334221",
+    "latitude": 40.8934,
+    "longitude": 1.49994,
+    "registration": "EI-ENO",
+    "source": "ADSB",
+    "station": "PGANRB501700",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -128
+    },
+    {
+    "airline": "RYR",
+    "arrival": "GOA",
+    "arrival_position": [
+    44.4133,
+    8.8375
+    ],
+    "departure": "BDS",
+    "departure_position": [
+    40.6576,
+    17.947
+    ],
+    "flight": "FR3229",
+    "groundspeed": 12,
+    "heading": 78.66693599205365,
+    "id": "2144334431",
+    "latitude": 44.4155,
+    "longitude": 8.8317,
+    "registration": "9H-QBL",
+    "source": "ADSB",
+    "station": "EXTRPI584763",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "VLC",
+    "departure_position": [
+    39.4893,
+    -0.481625
+    ],
+    "flight": "FR7371",
+    "groundspeed": 460,
+    "heading": 64.75190770920256,
+    "id": "2144334617",
+    "latitude": 43.6675,
+    "longitude": 7.30463,
+    "registration": "9H-LMP",
+    "source": "ADSB",
+    "station": "EXTRPI026638",
+    "timestamp": 1713897892000,
+    "type": "A320",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "ALC",
+    "arrival_position": [
+    38.2822,
+    -0.558156
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR7762",
+    "groundspeed": "",
+    "heading": 166.35537708515687,
+    "id": "2144334889",
+    "latitude": 46.53401,
+    "longitude": -3.98469,
+    "registration": "EI-ENM",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 39000,
+    "arrival": "LPA",
+    "arrival_position": [
+    27.9319,
+    -15.3866
+    ],
+    "departure": "AGP",
+    "departure_position": [
+    36.6749,
+    -4.49911
+    ],
+    "flight": "FR3350",
+    "groundspeed": "",
+    "heading": 231.74986580375074,
+    "id": "2144335080",
+    "latitude": 31.39883,
+    "longitude": -9.28724,
+    "registration": "EI-HGY",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "FMM",
+    "arrival_position": [
+    47.9888,
+    10.2395
+    ],
+    "departure": "AGP",
+    "departure_position": [
+    36.6749,
+    -4.49911
+    ],
+    "flight": "FR2541",
+    "groundspeed": 417,
+    "heading": 49.34434648892028,
+    "id": "2144335109",
+    "latitude": 42.87465,
+    "longitude": 0.00594,
+    "registration": "9H-QDL",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 10025,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "PMO",
+    "departure_position": [
+    38.176,
+    13.091
+    ],
+    "flight": "FR6148",
+    "groundspeed": 280,
+    "heading": 339.2914026063712,
+    "id": "2144335186",
+    "latitude": 45.29169,
+    "longitude": 10.07754,
+    "registration": "9H-VUV",
+    "source": "ADSB",
+    "station": "EXTRPI009164",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": -1470
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "BVA",
+    "arrival_position": [
+    49.4544,
+    2.11278
+    ],
+    "departure": "POZ",
+    "departure_position": [
+    52.421,
+    16.8263
+    ],
+    "flight": "FR6689",
+    "groundspeed": 440,
+    "heading": 253.9478849836438,
+    "id": "2144335329",
+    "latitude": 51.92336,
+    "longitude": 10.21996,
+    "registration": "SP-RKM",
+    "source": "ADSB",
+    "station": "EXTRPI004480",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "CGN",
+    "arrival_position": [
+    50.8659,
+    7.14274
+    ],
+    "departure": "OPO",
+    "departure_position": [
+    41.2481,
+    -8.68139
+    ],
+    "flight": "FR9972",
+    "groundspeed": "",
+    "heading": 45.31049823681326,
+    "id": "2144335352",
+    "latitude": 46.15384,
+    "longitude": -2.0094,
+    "registration": "EI-IHM",
+    "source": "ADSB",
+    "station": "EXTRPI008923",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "CPH",
+    "arrival_position": [
+    55.6179,
+    12.656
+    ],
+    "departure": "BVA",
+    "departure_position": [
+    49.4544,
+    2.11278
+    ],
+    "flight": "FR9741",
+    "groundspeed": 440,
+    "heading": 53.468585464503235,
+    "id": "2144335855",
+    "latitude": 54.49649,
+    "longitude": 9.34145,
+    "registration": "9H-QAD",
+    "source": "ADSB",
+    "station": "EXTRPI007621",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 32675,
+    "arrival": "FCO",
+    "arrival_position": [
+    41.8045,
+    12.2508
+    ],
+    "departure": "BCN",
+    "departure_position": [
+    41.2971,
+    2.07846
+    ],
+    "flight": "FR6985",
+    "groundspeed": 498,
+    "heading": 68.24503720547631,
+    "id": "2144336011",
+    "latitude": 41.2413,
+    "longitude": 10.25433,
+    "registration": "EI-IHT",
+    "source": "ADSB",
+    "station": "EXTRPI009389",
+    "timestamp": 1713897879000,
+    "type": "B38M",
+    "verticalspeed": -4416
+    },
+    {
+    "airline": "RYR",
+    "altitude": 40000,
+    "arrival": "MAN",
+    "arrival_position": [
+    53.3537,
+    -2.27495
+    ],
+    "departure": "CCF",
+    "departure_position": [
+    43.216,
+    2.30632
+    ],
+    "flight": "FR37",
+    "groundspeed": 400,
+    "heading": 348.4962752347472,
+    "id": "2144336056",
+    "latitude": 46.89766,
+    "longitude": -0.56017,
+    "registration": "EI-EMF",
+    "source": "ADSB",
+    "station": "EXTRPI001473",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "PMI",
+    "arrival_position": [
+    39.5517,
+    2.73881
+    ],
+    "departure": "HHN",
+    "departure_position": [
+    49.9487,
+    7.26389
+    ],
+    "flight": "FR9832",
+    "groundspeed": 455,
+    "heading": 198.02903062610102,
+    "id": "2144336141",
+    "latitude": 41.99761,
+    "longitude": 4.06373,
+    "registration": "9H-QCI",
+    "source": "ADSB",
+    "station": "EXTRPI595203",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "CTA",
+    "arrival_position": [
+    37.4668,
+    15.0664
+    ],
+    "departure": "KRK",
+    "departure_position": [
+    50.0777,
+    19.7848
+    ],
+    "flight": "FR2726",
+    "groundspeed": "",
+    "heading": 188.77995728228493,
+    "id": "2144336251",
+    "latitude": 45.12437,
+    "longitude": 17.92995,
+    "registration": "SP-RSB",
+    "source": "ADSB",
+    "station": "PGANRB500773",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "ORK",
+    "arrival_position": [
+    51.8413,
+    -8.49111
+    ],
+    "departure": "REU",
+    "departure_position": [
+    41.1474,
+    1.16717
+    ],
+    "flight": "FR9007",
+    "groundspeed": 400,
+    "heading": 339.34807268591476,
+    "id": "2144336335",
+    "latitude": 46.67379,
+    "longitude": -4.47199,
+    "registration": "EI-EKR",
+    "source": "ADSB",
+    "station": "EXTRPI008117",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "CGN",
+    "arrival_position": [
+    50.8659,
+    7.14274
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR8663",
+    "groundspeed": 448,
+    "heading": 359.47976861002564,
+    "id": "2144336336",
+    "latitude": 45.12681,
+    "longitude": 6.24271,
+    "registration": "9H-VUE",
+    "source": "ADSB",
+    "station": "EXTRPI005280",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 34025,
+    "arrival": "BOH",
+    "arrival_position": [
+    50.78,
+    -1.8425
+    ],
+    "departure": "ALC",
+    "departure_position": [
+    38.2822,
+    -0.558156
+    ],
+    "flight": "FR3949",
+    "groundspeed": 400,
+    "heading": 11.11753306297561,
+    "id": "2144336403",
+    "latitude": 41.34919,
+    "longitude": 0.61592,
+    "registration": "EI-HES",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": -128
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "ORK",
+    "arrival_position": [
+    51.8413,
+    -8.49111
+    ],
+    "departure": "AGP",
+    "departure_position": [
+    36.6749,
+    -4.49911
+    ],
+    "flight": "FR7736",
+    "groundspeed": 404,
+    "heading": 352.58745353342636,
+    "id": "2144336653",
+    "latitude": 43.13568,
+    "longitude": -3.77753,
+    "registration": "EI-GSK",
+    "source": "ADSB",
+    "station": "EXTRPI011185",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "TIA",
+    "departure_position": [
+    41.4147,
+    19.7206
+    ],
+    "flight": "FR8356",
+    "groundspeed": 434,
+    "heading": 289.6897458159436,
+    "id": "2144336773",
+    "latitude": 44.1953,
+    "longitude": 12.65431,
+    "registration": "9H-QEO",
+    "source": "ADSB",
+    "station": "EXTRPI004917",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": 96
+    },
+    {
+    "airline": "RYR",
+    "altitude": 15100,
+    "arrival": "NTE",
+    "arrival_position": [
+    47.1532,
+    -1.61073
+    ],
+    "departure": "MRS",
+    "departure_position": [
+    43.4393,
+    5.22142
+    ],
+    "flight": "FR6774",
+    "groundspeed": 299,
+    "heading": 312.77345270098516,
+    "id": "2144336887",
+    "latitude": 46.5163,
+    "longitude": -1.09856,
+    "registration": "9H-QCF",
+    "source": "ADSB",
+    "station": "EXTRPI008923",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -1600
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35025,
+    "arrival": "TFS",
+    "arrival_position": [
+    28.0445,
+    -16.5725
+    ],
+    "departure": "MXP",
+    "departure_position": [
+    45.6306,
+    8.72811
+    ],
+    "flight": "FR1811",
+    "groundspeed": 446,
+    "heading": 261.3924769902559,
+    "id": "2144336904",
+    "latitude": 41.27788,
+    "longitude": 1.85101,
+    "registration": "EI-EVG",
+    "source": "ADSB",
+    "station": "EXTRPI021145",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 26725,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "OPO",
+    "departure_position": [
+    41.2481,
+    -8.68139
+    ],
+    "flight": "FR4586",
+    "groundspeed": "",
+    "heading": 107.50266961114846,
+    "id": "2144336919",
+    "latitude": 41.81192,
+    "longitude": 0.04701,
+    "registration": "EI-DLF",
+    "source": "ADSB",
+    "station": "EXTRPI021185",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -1024
+    },
+    {
+    "airline": "RYR",
+    "arrival": "TLS",
+    "arrival_position": [
+    43.6291,
+    1.36382
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR295",
+    "groundspeed": "",
+    "heading": 311.5017568548934,
+    "id": "2144337092",
+    "latitude": 51.87571,
+    "longitude": 0.22337,
+    "registration": "EI-DCX",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897845000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "KRK",
+    "arrival_position": [
+    50.0777,
+    19.7848
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR2432",
+    "groundspeed": 457,
+    "heading": 94.00132539575759,
+    "id": "2144337554",
+    "latitude": 52.1109,
+    "longitude": 5.80784,
+    "registration": "EI-EBE",
+    "source": "ADSB",
+    "station": "EXTRPI004487",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "MAD",
+    "arrival_position": [
+    40.4936,
+    -3.56676
+    ],
+    "departure": "BLQ",
+    "departure_position": [
+    44.5354,
+    11.2887
+    ],
+    "flight": "FR3813",
+    "groundspeed": 460,
+    "heading": 234.89162987855156,
+    "id": "2144337585",
+    "latitude": 42.13699,
+    "longitude": 3.65366,
+    "registration": "9H-QDU",
+    "source": "ADSB",
+    "station": "EXTRPI006241",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 39000,
+    "arrival": "WMI",
+    "arrival_position": [
+    52.4511,
+    20.6518
+    ],
+    "departure": "LPL",
+    "departure_position": [
+    53.3336,
+    -2.84972
+    ],
+    "flight": "FR4043",
+    "groundspeed": 461,
+    "heading": 94.2458529982332,
+    "id": "2144337779",
+    "latitude": 53.04987,
+    "longitude": 6.02402,
+    "registration": "EI-DHZ",
+    "source": "ADSB",
+    "station": "EXTRPI212208",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "arrival": "SCQ",
+    "arrival_position": [
+    42.8963,
+    -8.41514
+    ],
+    "departure": "ACE",
+    "departure_position": [
+    28.9455,
+    -13.6052
+    ],
+    "flight": "FR2001",
+    "groundspeed": 433,
+    "heading": 14.370089636303192,
+    "id": "2144338243",
+    "latitude": 35.81781,
+    "longitude": -11.05133,
+    "registration": "EI-EFG",
+    "source": "ADSB",
+    "station": "PGANRB501510",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 26525,
+    "arrival": "AHO",
+    "arrival_position": [
+    40.6321,
+    8.29077
+    ],
+    "departure": "NAP",
+    "departure_position": [
+    40.886,
+    14.2908
+    ],
+    "flight": "FR1660",
+    "groundspeed": 371,
+    "heading": 272.7332206353075,
+    "id": "2144338254",
+    "latitude": 40.78697,
+    "longitude": 9.85748,
+    "registration": "9H-QBW",
+    "source": "ADSB",
+    "station": "EXTRPI595711",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -2300
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "CAG",
+    "departure_position": [
+    39.2515,
+    9.05428
+    ],
+    "flight": "FR4416",
+    "groundspeed": 440,
+    "heading": 337.12463266766406,
+    "id": "2144338344",
+    "latitude": 44.08781,
+    "longitude": 7.21586,
+    "registration": "EI-IHJ",
+    "source": "ADSB",
+    "station": "EXTRPI589141",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "FMM",
+    "arrival_position": [
+    47.9888,
+    10.2395
+    ],
+    "departure": "RIX",
+    "departure_position": [
+    56.9236,
+    23.9711
+    ],
+    "flight": "FR3290",
+    "groundspeed": 416,
+    "heading": 225.12833891288187,
+    "id": "2144338399",
+    "latitude": 51.54022,
+    "longitude": 18.15926,
+    "registration": "9H-QEY",
+    "source": "ADSB",
+    "station": "EXTRPI147018",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "PFO",
+    "arrival_position": [
+    34.718,
+    32.4857
+    ],
+    "departure": "SKG",
+    "departure_position": [
+    40.5197,
+    22.9709
+    ],
+    "flight": "FR5083",
+    "groundspeed": 428,
+    "heading": 139.63014459883925,
+    "id": "2144338402",
+    "latitude": 36.77271,
+    "longitude": 28.6944,
+    "registration": "EI-ESS",
+    "source": "ADSB",
+    "station": "PGANRB501325",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "CPH",
+    "arrival_position": [
+    55.6179,
+    12.656
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR2990",
+    "groundspeed": 437,
+    "heading": 4.455484367308372,
+    "id": "2144338466",
+    "latitude": 48.40958,
+    "longitude": 11.08694,
+    "registration": "9H-QDA",
+    "source": "ADSB",
+    "station": "EXTRPI007504",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "arrival": "MRS",
+    "arrival_position": [
+    43.4393,
+    5.22142
+    ],
+    "departure": "FAO",
+    "departure_position": [
+    37.0144,
+    -7.96591
+    ],
+    "flight": "FR5794",
+    "groundspeed": "",
+    "heading": 44.074951166903816,
+    "id": "2144338487",
+    "latitude": 39.02558,
+    "longitude": -0.86511,
+    "registration": "EI-DLY",
+    "source": "ADSB",
+    "station": "EXTRPI007113",
+    "timestamp": 1713897886000,
+    "type": "B738",
+    "verticalspeed": -96
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "BHX",
+    "arrival_position": [
+    52.4539,
+    -1.74803
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR1953",
+    "groundspeed": 405,
+    "heading": 339.30844905099224,
+    "id": "2144338488",
+    "latitude": 44.33398,
+    "longitude": 0.48655,
+    "registration": "EI-DPR",
+    "source": "ADSB",
+    "station": "EXTRPI020485",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "BER",
+    "departure_position": [
+    52.3667,
+    13.5033
+    ],
+    "flight": "FR234",
+    "groundspeed": 459,
+    "heading": 238.30757140701502,
+    "id": "2144338599",
+    "latitude": 50.93308,
+    "longitude": 7.6738,
+    "registration": "EI-HGX",
+    "source": "ADSB",
+    "station": "EXTRPI141039",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 39000,
+    "arrival": "BUD",
+    "arrival_position": [
+    47.4369,
+    19.2556
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR3717",
+    "groundspeed": 450,
+    "heading": 109.17870241082124,
+    "id": "2144338841",
+    "latitude": 51.10835,
+    "longitude": 7.46872,
+    "registration": "EI-DWA",
+    "source": "ADSB",
+    "station": "EXTRPI141039",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 34000,
+    "arrival": "ALC",
+    "arrival_position": [
+    38.2822,
+    -0.558156
+    ],
+    "departure": "HEL",
+    "departure_position": [
+    60.3172,
+    24.9633
+    ],
+    "flight": "FR2617",
+    "groundspeed": 440,
+    "heading": 223.75353111598503,
+    "id": "2144338857",
+    "latitude": 57.45538,
+    "longitude": 20.03391,
+    "registration": "EI-EMI",
+    "source": "ADSB",
+    "station": "EXTRPI251925",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "MAD",
+    "arrival_position": [
+    40.4936,
+    -3.56676
+    ],
+    "departure": "MXP",
+    "departure_position": [
+    45.6306,
+    8.72811
+    ],
+    "flight": "FR9149",
+    "groundspeed": 474,
+    "heading": 236.92661643986514,
+    "id": "2144338858",
+    "latitude": 44.32722,
+    "longitude": 1.79476,
+    "registration": "9H-QEB",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "BLL",
+    "arrival_position": [
+    55.7403,
+    9.15178
+    ],
+    "departure": "TPS",
+    "departure_position": [
+    37.9114,
+    12.488
+    ],
+    "flight": "FR988",
+    "groundspeed": 450,
+    "heading": 353.0663074239653,
+    "id": "2144339221",
+    "latitude": 43.73759,
+    "longitude": 11.9356,
+    "registration": "EI-DYL",
+    "source": "ADSB",
+    "station": "PGANRB500553",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "ALC",
+    "arrival_position": [
+    38.2822,
+    -0.558156
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR8382",
+    "groundspeed": "",
+    "heading": 180.27959561490732,
+    "id": "2144339236",
+    "latitude": 46.976,
+    "longitude": 0.89194,
+    "registration": "EI-ESV",
+    "source": "ADSB",
+    "station": "EXTRPI001473",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 12000,
+    "arrival": "NRN",
+    "arrival_position": [
+    51.6024,
+    6.14217
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR484",
+    "groundspeed": 350,
+    "heading": 359.84129109642356,
+    "id": "2144339279",
+    "latitude": 51.0585,
+    "longitude": 6.4827,
+    "registration": "9H-QAI",
+    "source": "ADSB",
+    "station": "EXTSHA193102",
+    "timestamp": 1713897892338,
+    "type": "B738",
+    "verticalspeed": -2624
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "TRS",
+    "arrival_position": [
+    45.8275,
+    13.4722
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR168",
+    "groundspeed": 462,
+    "heading": 127.23374740623802,
+    "id": "2144339290",
+    "latitude": 49.37846,
+    "longitude": 7.28098,
+    "registration": "9H-VUP",
+    "source": "ADSB",
+    "station": "EXTRPI009923",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 21700,
+    "arrival": "BLQ",
+    "arrival_position": [
+    44.5354,
+    11.2887
+    ],
+    "departure": "CAG",
+    "departure_position": [
+    39.2515,
+    9.05428
+    ],
+    "flight": "FR3967",
+    "groundspeed": 334,
+    "heading": 18.09480352657539,
+    "id": "2144339359",
+    "latitude": 43.70425,
+    "longitude": 10.85558,
+    "registration": "9H-VVI",
+    "source": "ADSB",
+    "station": "EXTRPI578941",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": -1470
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38025,
+    "arrival": "BVA",
+    "arrival_position": [
+    49.4544,
+    2.11278
+    ],
+    "departure": "ZAG",
+    "departure_position": [
+    45.7429,
+    16.0688
+    ],
+    "flight": "FR8791",
+    "groundspeed": 440,
+    "heading": 299.5614728648764,
+    "id": "2144339479",
+    "latitude": 49.08,
+    "longitude": 7.71099,
+    "registration": "9H-LOW",
+    "source": "ADSB",
+    "station": "EXTRPI555513",
+    "timestamp": 1713897892000,
+    "type": "A320",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35975,
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "NAP",
+    "departure_position": [
+    40.886,
+    14.2908
+    ],
+    "flight": "FR9028",
+    "groundspeed": 480,
+    "heading": 24.153372565673465,
+    "id": "2144339656",
+    "latitude": 43.88649,
+    "longitude": 15.43055,
+    "registration": "9H-LOS",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897892000,
+    "type": "A320",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 7450,
+    "arrival": "FCO",
+    "arrival_position": [
+    41.8045,
+    12.2508
+    ],
+    "departure": "BRU",
+    "departure_position": [
+    50.9014,
+    4.48444
+    ],
+    "flight": "FR3083",
+    "groundspeed": 290,
+    "heading": 135.2980424762453,
+    "id": "2144339820",
+    "latitude": 50.76457,
+    "longitude": 4.613,
+    "registration": "9H-QEA",
+    "source": "ADSB",
+    "station": "EXTRPI591483",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 2848
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "NUE",
+    "arrival_position": [
+    49.4987,
+    11.0669
+    ],
+    "departure": "VNO",
+    "departure_position": [
+    54.6341,
+    25.2858
+    ],
+    "flight": "FR4480",
+    "groundspeed": 420,
+    "heading": 236.889610474942,
+    "id": "2144339836",
+    "latitude": 52.26689,
+    "longitude": 18.06914,
+    "registration": "SP-RSQ",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "ALC",
+    "departure_position": [
+    38.2822,
+    -0.558156
+    ],
+    "flight": "FR9052",
+    "groundspeed": 417,
+    "heading": 351.2206029069126,
+    "id": "2144339856",
+    "latitude": 42.96803,
+    "longitude": 1.29543,
+    "registration": "EI-EVR",
+    "source": "ADSB",
+    "station": "EXTRPI020485",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 29000,
+    "arrival": "NTE",
+    "arrival_position": [
+    47.1532,
+    -1.61073
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR9468",
+    "groundspeed": 416,
+    "heading": 205.1030848702399,
+    "id": "2144339883",
+    "latitude": 50.77904,
+    "longitude": -1.51968,
+    "registration": "EI-DYV",
+    "source": "ADSB",
+    "station": "EXTRPI007519",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -128
+    },
+    {
+    "airline": "RYR",
+    "altitude": 28050,
+    "arrival": "TRN",
+    "arrival_position": [
+    45.2008,
+    7.64963
+    ],
+    "departure": "PMO",
+    "departure_position": [
+    38.176,
+    13.091
+    ],
+    "flight": "FR4916",
+    "groundspeed": 450,
+    "heading": 324.60544404171156,
+    "id": "2144339934",
+    "latitude": 43.59808,
+    "longitude": 9.29803,
+    "registration": "9H-VVL",
+    "source": "ADSB",
+    "station": "EXTRPI026638",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": -960
+    },
+    {
+    "airline": "RYR",
+    "altitude": 29200,
+    "arrival": "HAM",
+    "arrival_position": [
+    53.6304,
+    9.98823
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR1520",
+    "groundspeed": 420,
+    "heading": 72.37911165346407,
+    "id": "2144340117",
+    "latitude": 53.4929,
+    "longitude": 7.59131,
+    "registration": "EI-GSH",
+    "source": "ADSB",
+    "station": "EXTRPI000432",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -1984
+    },
+    {
+    "airline": "RYR",
+    "arrival": "ATH",
+    "arrival_position": [
+    37.9364,
+    23.9445
+    ],
+    "departure": "PFO",
+    "departure_position": [
+    34.718,
+    32.4857
+    ],
+    "flight": "FR3931",
+    "groundspeed": 397,
+    "heading": 298.17126982159033,
+    "id": "2144340191",
+    "latitude": 36.38272,
+    "longitude": 27.3985,
+    "registration": "EI-IJN",
+    "source": "ADSB",
+    "station": "PGANRB501325",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "CTA",
+    "departure_position": [
+    37.4668,
+    15.0664
+    ],
+    "flight": "FR6650",
+    "groundspeed": 460,
+    "heading": 333.69681344023394,
+    "id": "2144340290",
+    "latitude": 41.96287,
+    "longitude": 12.42379,
+    "registration": "9H-QCH",
+    "source": "ADSB",
+    "station": "EXTRPI001690",
+    "timestamp": 1713897894000,
+    "type": "B738",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 4725,
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR8193",
+    "groundspeed": 239,
+    "heading": 3.1572357339313726,
+    "id": "2144340307",
+    "latitude": 47.85022,
+    "longitude": 16.65047,
+    "registration": "9H-LMH",
+    "source": "ADSB",
+    "station": "EXTRPI007639",
+    "timestamp": 1713897891000,
+    "type": "A320",
+    "verticalspeed": -1216
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "CPH",
+    "arrival_position": [
+    55.6179,
+    12.656
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR632",
+    "groundspeed": 421,
+    "heading": 65.33210495843844,
+    "id": "2144340415",
+    "latitude": 54.37776,
+    "longitude": 0.8596,
+    "registration": "EI-EVB",
+    "source": "ADSB",
+    "station": "EXTRPI007519",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "arrival": "INI",
+    "arrival_position": [
+    43.3373,
+    21.8537
+    ],
+    "departure": "VIE",
+    "departure_position": [
+    48.1103,
+    16.5697
+    ],
+    "flight": "FR674",
+    "groundspeed": "",
+    "heading": 128.87541069400726,
+    "id": "2144340577",
+    "latitude": 44.42387,
+    "longitude": 20.248,
+    "registration": "SP-RSN",
+    "source": "ADSB",
+    "station": "EXTRPI567453",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "BRS",
+    "arrival_position": [
+    51.3827,
+    -2.71909
+    ],
+    "departure": "ALC",
+    "departure_position": [
+    38.2822,
+    -0.558156
+    ],
+    "flight": "FR8297",
+    "groundspeed": "",
+    "heading": 340.2462784202646,
+    "id": "2144340583",
+    "latitude": 43.85277,
+    "longitude": 0.28584,
+    "registration": "EI-ENI",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "OUD",
+    "arrival_position": [
+    34.7872,
+    -1.92399
+    ],
+    "departure": "MRS",
+    "departure_position": [
+    43.4393,
+    5.22142
+    ],
+    "flight": "FR5311",
+    "groundspeed": 444,
+    "heading": 208.01744462681432,
+    "id": "2144340643",
+    "latitude": 39.0543,
+    "longitude": -0.78235,
+    "registration": "9H-QEH",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -128
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "OTP",
+    "arrival_position": [
+    44.5722,
+    26.1022
+    ],
+    "departure": "MXP",
+    "departure_position": [
+    45.6306,
+    8.72811
+    ],
+    "flight": "FR8734",
+    "groundspeed": 462,
+    "heading": 84.92090308292745,
+    "id": "2144340906",
+    "latitude": 46.13745,
+    "longitude": 14.99413,
+    "registration": "9H-QEK",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 34250,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR3674",
+    "groundspeed": 478,
+    "heading": 126.20077691692194,
+    "id": "2144341027",
+    "latitude": 50.97665,
+    "longitude": 2.59743,
+    "registration": "EI-IHP",
+    "source": "ADSB",
+    "station": "EXTRPI581882",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": 1408
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "BER",
+    "arrival_position": [
+    52.3667,
+    13.5033
+    ],
+    "departure": "SKG",
+    "departure_position": [
+    40.5197,
+    22.9709
+    ],
+    "flight": "FR1147",
+    "groundspeed": 470,
+    "heading": 332.5102371191262,
+    "id": "2144341056",
+    "latitude": 44.77981,
+    "longitude": 20.30273,
+    "registration": "9H-VVQ",
+    "source": "ADSB",
+    "station": "EXTRPI027013",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 31000,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "CRL",
+    "departure_position": [
+    50.4592,
+    4.45382
+    ],
+    "flight": "FR1916",
+    "groundspeed": 473,
+    "heading": 207.51094511872284,
+    "id": "2144341178",
+    "latitude": 45.2211,
+    "longitude": 0.05323,
+    "registration": "EI-DWY",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 31125,
+    "arrival": "VCE",
+    "arrival_position": [
+    45.5053,
+    12.3519
+    ],
+    "departure": "CTA",
+    "departure_position": [
+    37.4668,
+    15.0664
+    ],
+    "flight": "FR1075",
+    "groundspeed": 460,
+    "heading": 350.04040171362135,
+    "id": "2144341311",
+    "latitude": 38.46886,
+    "longitude": 14.55874,
+    "registration": "9H-QFB",
+    "source": "ADSB",
+    "station": "EXTRPI001794",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": 1400
+    },
+    {
+    "airline": "RYR",
+    "arrival": "PMI",
+    "arrival_position": [
+    39.5517,
+    2.73881
+    ],
+    "departure": "LPA",
+    "departure_position": [
+    27.9319,
+    -15.3866
+    ],
+    "flight": "FR2296",
+    "groundspeed": 480,
+    "heading": 45.97744230360291,
+    "id": "2144341415",
+    "latitude": 31.356,
+    "longitude": -10.62801,
+    "registration": "EI-HGF",
+    "source": "ADSB",
+    "station": "PGANRB500250",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 32175,
+    "arrival": "FMM",
+    "arrival_position": [
+    47.9888,
+    10.2395
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR8551",
+    "groundspeed": 484,
+    "heading": 59.74456625507196,
+    "id": "2144341433",
+    "latitude": 39.89745,
+    "longitude": 4.29195,
+    "registration": "9H-QBK",
+    "source": "ADSB",
+    "station": "EXTRPI581343",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 2144
+    },
+    {
+    "airline": "RYR",
+    "altitude": 13975,
+    "arrival": "BTS",
+    "arrival_position": [
+    48.1702,
+    17.2127
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR4224",
+    "groundspeed": 364,
+    "heading": 97.39789650773486,
+    "id": "2144341543",
+    "latitude": 53.48945,
+    "longitude": -5.82962,
+    "registration": "SP-RSR",
+    "source": "ADSB",
+    "station": "EXTRPI589261",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 2976
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "PGF",
+    "departure_position": [
+    42.7404,
+    2.87067
+    ],
+    "flight": "FR1385",
+    "groundspeed": 427,
+    "heading": 4.915343074878763,
+    "id": "2144341613",
+    "latitude": 44.64145,
+    "longitude": 4.38174,
+    "registration": "EI-EFZ",
+    "source": "ADSB",
+    "station": "EXTRPI026645",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "CIA",
+    "departure_position": [
+    41.7994,
+    12.5949
+    ],
+    "flight": "FR2673",
+    "groundspeed": 449,
+    "heading": 320.4017665509868,
+    "id": "2144341703",
+    "latitude": 44.56879,
+    "longitude": 8.8026,
+    "registration": "EI-DCR",
+    "source": "ADSB",
+    "station": "EXTRPI008601",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 24375,
+    "arrival": "SOF",
+    "arrival_position": [
+    42.6967,
+    23.4114
+    ],
+    "departure": "CGN",
+    "departure_position": [
+    50.8659,
+    7.14274
+    ],
+    "flight": "FR4452",
+    "groundspeed": 443,
+    "heading": 131.36747351457814,
+    "id": "2144341793",
+    "latitude": 50.61388,
+    "longitude": 8.31549,
+    "registration": "SP-RKD",
+    "source": "ADSB",
+    "station": "EXTRPI000320",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 1984
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "KTW",
+    "arrival_position": [
+    50.4743,
+    19.08
+    ],
+    "departure": "AHO",
+    "departure_position": [
+    40.6321,
+    8.29077
+    ],
+    "flight": "FR4180",
+    "groundspeed": 480,
+    "heading": 36.22202996114089,
+    "id": "2144341845",
+    "latitude": 44.03833,
+    "longitude": 13.49996,
+    "registration": "SP-RSZ",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -128
+    },
+    {
+    "airline": "RYR",
+    "altitude": 15000,
+    "arrival": "LGW",
+    "arrival_position": [
+    51.1481,
+    -0.190278
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR122",
+    "groundspeed": 337,
+    "heading": 147.24642024042885,
+    "id": "2144342096",
+    "latitude": 51.74098,
+    "longitude": -1.32979,
+    "registration": "EI-DYW",
+    "source": "ADSB",
+    "station": "EXTRPI007519",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 10250,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "LGW",
+    "departure_position": [
+    51.1481,
+    -0.190278
+    ],
+    "flight": "FR119",
+    "groundspeed": 285,
+    "heading": 312.1365853722057,
+    "id": "2144342117",
+    "latitude": 52.98134,
+    "longitude": -5.34973,
+    "registration": "EI-DLW",
+    "source": "ADSB",
+    "station": "EXTRPI589261",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -510
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "BHX",
+    "arrival_position": [
+    52.4539,
+    -1.74803
+    ],
+    "departure": "MLA",
+    "departure_position": [
+    35.8575,
+    14.4775
+    ],
+    "flight": "FR3902",
+    "groundspeed": 440,
+    "heading": 337.9806073423757,
+    "id": "2144342127",
+    "latitude": 39.27516,
+    "longitude": 12.2368,
+    "registration": "EI-EGB",
+    "source": "ADSB",
+    "station": "EXTRPI007435",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -60
+    },
+    {
+    "airline": "RYR",
+    "arrival": "RAK",
+    "arrival_position": [
+    31.6069,
+    -8.0363
+    ],
+    "departure": "MLA",
+    "departure_position": [
+    35.8575,
+    14.4775
+    ],
+    "flight": "FR70",
+    "groundspeed": 389,
+    "heading": 275.42624128163845,
+    "id": "2144342555",
+    "latitude": 36.66738,
+    "longitude": 10.94343,
+    "registration": "EI-EVV",
+    "source": "ADSB",
+    "station": "EXTRPI007435",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 21650,
+    "arrival": "LIS",
+    "arrival_position": [
+    38.7813,
+    -9.13592
+    ],
+    "departure": "ALC",
+    "departure_position": [
+    38.2822,
+    -0.558156
+    ],
+    "flight": "FR9747",
+    "groundspeed": 403,
+    "heading": 339.515820424383,
+    "id": "2144342560",
+    "latitude": 38.92928,
+    "longitude": -0.78242,
+    "registration": "EI-HMT",
+    "source": "ADSB",
+    "station": "EXTRPI590582",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": 224
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37025,
+    "arrival": "CTA",
+    "arrival_position": [
+    37.4668,
+    15.0664
+    ],
+    "departure": "MXP",
+    "departure_position": [
+    45.6306,
+    8.72811
+    ],
+    "flight": "FR5513",
+    "groundspeed": 440,
+    "heading": 132.93941423129985,
+    "id": "2144342580",
+    "latitude": 42.65584,
+    "longitude": 11.73889,
+    "registration": "9H-QEU",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 30875,
+    "arrival": "ARN",
+    "arrival_position": [
+    59.6519,
+    17.9186
+    ],
+    "departure": "TIA",
+    "departure_position": [
+    41.4147,
+    19.7206
+    ],
+    "flight": "FR8418",
+    "groundspeed": 511,
+    "heading": 3.043550650291081,
+    "id": "2144342587",
+    "latitude": 42.87145,
+    "longitude": 19.8178,
+    "registration": "9H-QCJ",
+    "source": "ADSB",
+    "station": "EXTRPI580141",
+    "timestamp": 1713897886000,
+    "type": "B738",
+    "verticalspeed": 1344
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "MAD",
+    "arrival_position": [
+    40.4936,
+    -3.56676
+    ],
+    "departure": "MAN",
+    "departure_position": [
+    53.3537,
+    -2.27495
+    ],
+    "flight": "FR3187",
+    "groundspeed": 470,
+    "heading": 197.54799406323536,
+    "id": "2144342603",
+    "latitude": 50.04044,
+    "longitude": -2.07738,
+    "registration": "EI-EVM",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "SKG",
+    "arrival_position": [
+    40.5197,
+    22.9709
+    ],
+    "departure": "HEL",
+    "departure_position": [
+    60.3172,
+    24.9633
+    ],
+    "flight": "FR9229",
+    "groundspeed": 433,
+    "heading": 189.15729791317145,
+    "id": "2144342627",
+    "latitude": 56.3465,
+    "longitude": 23.42135,
+    "registration": "EI-EVL",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "WAW",
+    "departure_position": [
+    52.1657,
+    20.9671
+    ],
+    "flight": "FR5749",
+    "groundspeed": 440,
+    "heading": 265.01470389203206,
+    "id": "2144342636",
+    "latitude": 51.62839,
+    "longitude": 15.0415,
+    "registration": "9H-QCV",
+    "source": "ADSB",
+    "station": "EXTRPI027036",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 18150,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR287",
+    "groundspeed": 288,
+    "heading": 312.93725771275496,
+    "id": "2144343039",
+    "latitude": 52.74403,
+    "longitude": -4.92317,
+    "registration": "EI-EFC",
+    "source": "ADSB",
+    "station": "EXTRPI007620",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -896
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "EMA",
+    "arrival_position": [
+    52.8311,
+    -1.32806
+    ],
+    "departure": "BCN",
+    "departure_position": [
+    41.2971,
+    2.07846
+    ],
+    "flight": "FR9391",
+    "groundspeed": "",
+    "heading": 340.4205438667483,
+    "id": "2144343158",
+    "latitude": 43.52117,
+    "longitude": 0.85157,
+    "registration": "EI-EFO",
+    "source": "ADSB",
+    "station": "EXTRPI010427",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 34000,
+    "arrival": "BER",
+    "arrival_position": [
+    52.3667,
+    13.5033
+    ],
+    "departure": "BUD",
+    "departure_position": [
+    47.4369,
+    19.2556
+    ],
+    "flight": "FR3306",
+    "groundspeed": 423,
+    "heading": 326.93909086976777,
+    "id": "2144343273",
+    "latitude": 50.17181,
+    "longitude": 15.49585,
+    "registration": "SP-RKX",
+    "source": "ADSB",
+    "station": "EXTSHA193102",
+    "timestamp": 1713897885207,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "TSF",
+    "arrival_position": [
+    45.6484,
+    12.1944
+    ],
+    "departure": "TIA",
+    "departure_position": [
+    41.4147,
+    19.7206
+    ],
+    "flight": "FR8431",
+    "groundspeed": 430,
+    "heading": 306.0370112924254,
+    "id": "2144343378",
+    "latitude": 43.5256,
+    "longitude": 15.99714,
+    "registration": "9H-QCC",
+    "source": "ADSB",
+    "station": "PGANRB500566",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 25725,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "BER",
+    "departure_position": [
+    52.3667,
+    13.5033
+    ],
+    "flight": "FR177",
+    "groundspeed": 412,
+    "heading": 271.32616068514983,
+    "id": "2144343537",
+    "latitude": 52.35218,
+    "longitude": 12.04282,
+    "registration": "9H-QAB",
+    "source": "ADSB",
+    "station": "EXTRPI020459",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 1728
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "BDS",
+    "arrival_position": [
+    40.6576,
+    17.947
+    ],
+    "departure": "MAD",
+    "departure_position": [
+    40.4936,
+    -3.56676
+    ],
+    "flight": "FR5646",
+    "groundspeed": 470,
+    "heading": 89.42706574632996,
+    "id": "2144343569",
+    "latitude": 41.31972,
+    "longitude": -0.31061,
+    "registration": "9H-VVA",
+    "source": "ADSB",
+    "station": "EXTRPI021185",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 34000,
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "LIS",
+    "departure_position": [
+    38.7813,
+    -9.13592
+    ],
+    "flight": "FR3609",
+    "groundspeed": "",
+    "heading": 26.09838504505052,
+    "id": "2144343579",
+    "latitude": 41.11443,
+    "longitude": -6.20815,
+    "registration": "EI-DPJ",
+    "source": "ADSB",
+    "station": "EXTRPI041466",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35625,
+    "arrival": "CTA",
+    "arrival_position": [
+    37.4668,
+    15.0664
+    ],
+    "departure": "TRN",
+    "departure_position": [
+    45.2008,
+    7.64963
+    ],
+    "flight": "FR1019",
+    "groundspeed": 451,
+    "heading": 146.87073251532144,
+    "id": "2144343746",
+    "latitude": 44.00139,
+    "longitude": 9.14784,
+    "registration": "9H-QDB",
+    "source": "ADSB",
+    "station": "EXTRPI013749",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 1248
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "NRN",
+    "arrival_position": [
+    51.6024,
+    6.14217
+    ],
+    "departure": "AGP",
+    "departure_position": [
+    36.6749,
+    -4.49911
+    ],
+    "flight": "FR8613",
+    "groundspeed": 426,
+    "heading": 8.901911050003605,
+    "id": "2144343846",
+    "latitude": 40.06467,
+    "longitude": -3.40723,
+    "registration": "9H-VVF",
+    "source": "ADSB",
+    "station": "EXTRPI011185",
+    "timestamp": 1713897894000,
+    "type": "B38M",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "ATH",
+    "arrival_position": [
+    37.9364,
+    23.9445
+    ],
+    "departure": "BLQ",
+    "departure_position": [
+    44.5354,
+    11.2887
+    ],
+    "flight": "FR6018",
+    "groundspeed": 450,
+    "heading": 128.27096627321782,
+    "id": "2144344034",
+    "latitude": 42.70898,
+    "longitude": 14.39871,
+    "registration": "9H-QAR",
+    "source": "ADSB",
+    "station": "EXTRPI009164",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": -120
+    },
+    {
+    "airline": "RYR",
+    "altitude": 4800,
+    "arrival": "FNC",
+    "arrival_position": [
+    32.6979,
+    -16.7745
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR389",
+    "groundspeed": 240,
+    "heading": 298.7953920173786,
+    "id": "2144344160",
+    "latitude": 51.98891,
+    "longitude": 0.17517,
+    "registration": "EI-GXN",
+    "source": "ADSB",
+    "station": "EXTRPI014897",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 16100,
+    "arrival": "BLQ",
+    "arrival_position": [
+    44.5354,
+    11.2887
+    ],
+    "departure": "AHO",
+    "departure_position": [
+    40.6321,
+    8.29077
+    ],
+    "flight": "FR6128",
+    "groundspeed": 370,
+    "heading": 22.576563631620786,
+    "id": "2144344411",
+    "latitude": 44.07623,
+    "longitude": 11.03078,
+    "registration": "9H-QAA",
+    "source": "ADSB",
+    "station": "EXTRPI005137",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": -960
+    },
+    {
+    "airline": "RYR",
+    "altitude": 16950,
+    "arrival": "KRK",
+    "arrival_position": [
+    50.0777,
+    19.7848
+    ],
+    "departure": "DBV",
+    "departure_position": [
+    42.5614,
+    18.2683
+    ],
+    "flight": "FR5916",
+    "groundspeed": 303,
+    "heading": 338.4901035959655,
+    "id": "2144344571",
+    "latitude": 42.66193,
+    "longitude": 18.11021,
+    "registration": "SP-RZM",
+    "source": "ADSB",
+    "station": "EXTRPI071738",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": 2304
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "MLA",
+    "arrival_position": [
+    35.8575,
+    14.4775
+    ],
+    "departure": "BFS",
+    "departure_position": [
+    54.6575,
+    -6.21583
+    ],
+    "flight": "FR9424",
+    "groundspeed": 464,
+    "heading": 140.20571097981792,
+    "id": "2144344760",
+    "latitude": 52.65811,
+    "longitude": -2.73407,
+    "registration": "9H-QAY",
+    "source": "ADSB",
+    "station": "EXTRPI007519",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 19700,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "CGN",
+    "departure_position": [
+    50.8659,
+    7.14274
+    ],
+    "flight": "FR2813",
+    "groundspeed": 288,
+    "heading": 300.6471587542066,
+    "id": "2144344876",
+    "latitude": 51.8773,
+    "longitude": 1.83895,
+    "registration": "9H-VVO",
+    "source": "ADSB",
+    "station": "EXTRPI581882",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": -960
+    },
+    {
+    "airline": "RYR",
+    "altitude": 19925,
+    "arrival": "LPL",
+    "arrival_position": [
+    53.3336,
+    -2.84972
+    ],
+    "departure": "ACE",
+    "departure_position": [
+    28.9455,
+    -13.6052
+    ],
+    "flight": "FR6575",
+    "groundspeed": 383,
+    "heading": 358.119654897911,
+    "id": "2144344897",
+    "latitude": 29.57336,
+    "longitude": -13.5388,
+    "registration": "EI-EKG",
+    "source": "ADSB",
+    "station": "PGANRB504519",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": 2080
+    },
+    {
+    "airline": "RYR",
+    "altitude": 27200,
+    "arrival": "EDI",
+    "arrival_position": [
+    55.95,
+    -3.3725
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR6657",
+    "groundspeed": 350,
+    "heading": 314.10037062651645,
+    "id": "2144344947",
+    "latitude": 39.96172,
+    "longitude": 1.82721,
+    "registration": "EI-DLV",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 1728
+    },
+    {
+    "airline": "RYR",
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "MAD",
+    "departure_position": [
+    40.4936,
+    -3.56676
+    ],
+    "flight": "FR5995",
+    "groundspeed": 9,
+    "heading": "",
+    "id": "2144345059",
+    "latitude": 40.49914,
+    "longitude": -3.5625,
+    "registration": "EI-EKM",
+    "source": "ADSB",
+    "station": "EXTRPI599612",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "BVA",
+    "arrival_position": [
+    49.4544,
+    2.11278
+    ],
+    "departure": "VLC",
+    "departure_position": [
+    39.4893,
+    -0.481625
+    ],
+    "flight": "FR9000",
+    "groundspeed": 420,
+    "heading": 22.410760789518747,
+    "id": "2144345091",
+    "latitude": 41.15488,
+    "longitude": 0.67841,
+    "registration": "EI-HGZ",
+    "source": "ADSB",
+    "station": "PGANRB500598",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": 64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 28425,
+    "arrival": "ARN",
+    "arrival_position": [
+    59.6519,
+    17.9186
+    ],
+    "departure": "KRK",
+    "departure_position": [
+    50.0777,
+    19.7848
+    ],
+    "flight": "FR4627",
+    "groundspeed": 467,
+    "heading": 350.84325544583686,
+    "id": "2144345134",
+    "latitude": 51.3265,
+    "longitude": 19.78394,
+    "registration": "9H-VUA",
+    "source": "ADSB",
+    "station": "EXTRPI010477",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": 1376
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "BVA",
+    "departure_position": [
+    49.4544,
+    2.11278
+    ],
+    "flight": "FR6375",
+    "groundspeed": 494,
+    "heading": 173.78611746813215,
+    "id": "2144345408",
+    "latitude": 45.96624,
+    "longitude": 2.52617,
+    "registration": "EI-IHV",
+    "source": "ADSB",
+    "station": "EXTRPI008923",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 32525,
+    "arrival": "MRS",
+    "arrival_position": [
+    43.4393,
+    5.22142
+    ],
+    "departure": "MAD",
+    "departure_position": [
+    40.4936,
+    -3.56676
+    ],
+    "flight": "FR5446",
+    "groundspeed": 405,
+    "heading": 75.8710458666331,
+    "id": "2144345533",
+    "latitude": 41.05101,
+    "longitude": -2.22845,
+    "registration": "EI-DWT",
+    "source": "ADSB",
+    "station": "EXTRPI004300",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 1504
+    },
+    {
+    "airline": "RYR",
+    "arrival": "NRN",
+    "arrival_position": [
+    51.6024,
+    6.14217
+    ],
+    "departure": "FAO",
+    "departure_position": [
+    37.0144,
+    -7.96591
+    ],
+    "flight": "FR5780",
+    "groundspeed": 410,
+    "heading": 32.49917388232291,
+    "id": "2144345946",
+    "latitude": 40.29017,
+    "longitude": -6.54848,
+    "registration": "9H-VVH",
+    "source": "ADSB",
+    "station": "EXTRPI000474",
+    "timestamp": 1713897889000,
+    "type": "B38M",
+    "verticalspeed": -60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 30200,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "LIS",
+    "departure_position": [
+    38.7813,
+    -9.13592
+    ],
+    "flight": "FR821",
+    "groundspeed": 406,
+    "heading": 43.92493289197364,
+    "id": "2144345989",
+    "latitude": 39.7281,
+    "longitude": -7.93957,
+    "registration": "9H-VUZ",
+    "source": "ADSB",
+    "station": "EXTRPI004934",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": 1216
+    },
+    {
+    "airline": "RYR",
+    "altitude": 33925,
+    "arrival": "ATH",
+    "arrival_position": [
+    37.9364,
+    23.9445
+    ],
+    "departure": "FCO",
+    "departure_position": [
+    41.8045,
+    12.2508
+    ],
+    "flight": "FR1198",
+    "groundspeed": 480,
+    "heading": 109.86681664894331,
+    "id": "2144346316",
+    "latitude": 40.88022,
+    "longitude": 13.70351,
+    "registration": "9H-QDI",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 960
+    },
+    {
+    "airline": "RYR",
+    "altitude": 34000,
+    "arrival": "WMI",
+    "arrival_position": [
+    52.4511,
+    20.6518
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR3898",
+    "groundspeed": 450,
+    "heading": 55.567417219083495,
+    "id": "2144346349",
+    "latitude": 47.38445,
+    "longitude": 13.69805,
+    "registration": "9H-VUU",
+    "source": "ADSB",
+    "station": "EXTRPI007504",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 40350,
+    "arrival": "WRO",
+    "arrival_position": [
+    51.1027,
+    16.8858
+    ],
+    "departure": "MLA",
+    "departure_position": [
+    35.8575,
+    14.4775
+    ],
+    "flight": "FR928",
+    "groundspeed": "",
+    "heading": 9.692588262476306,
+    "id": "2144346511",
+    "latitude": 37.7919,
+    "longitude": 14.82874,
+    "registration": "SP-RUM",
+    "source": "ADSB",
+    "station": "EXTRPI002324",
+    "timestamp": 1713897892000,
+    "type": "B737",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38025,
+    "arrival": "FKB",
+    "arrival_position": [
+    48.7794,
+    8.0805
+    ],
+    "departure": "SUF",
+    "departure_position": [
+    38.9054,
+    16.2423
+    ],
+    "flight": "FR5076",
+    "groundspeed": 450,
+    "heading": 325.9495672137622,
+    "id": "2144346512",
+    "latitude": 41.97926,
+    "longitude": 13.12879,
+    "registration": "9H-QFE",
+    "source": "ADSB",
+    "station": "PGANRB500979",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 18375,
+    "arrival": "LTN",
+    "arrival_position": [
+    51.8747,
+    -0.368333
+    ],
+    "departure": "BCN",
+    "departure_position": [
+    41.2971,
+    2.07846
+    ],
+    "flight": "FR7808",
+    "groundspeed": "",
+    "heading": 334.7233191555006,
+    "id": "2144346591",
+    "latitude": 41.60825,
+    "longitude": 1.96449,
+    "registration": "EI-IGO",
+    "source": "ADSB",
+    "station": "EXTRPI021145",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": 2464
+    },
+    {
+    "airline": "RYR",
+    "altitude": 23375,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "BRU",
+    "departure_position": [
+    50.9014,
+    4.48444
+    ],
+    "flight": "FR2917",
+    "groundspeed": 426,
+    "heading": 209.71728746593374,
+    "id": "2144346831",
+    "latitude": 50.11251,
+    "longitude": 3.5206,
+    "registration": "EI-HAW",
+    "source": "ADSB",
+    "station": "EXTRPI016212",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": 1696
+    },
+    {
+    "airline": "RYR",
+    "altitude": 28725,
+    "arrival": "CTA",
+    "arrival_position": [
+    37.4668,
+    15.0664
+    ],
+    "departure": "BLQ",
+    "departure_position": [
+    44.5354,
+    11.2887
+    ],
+    "flight": "FR1087",
+    "groundspeed": 447,
+    "heading": 147.7296424638289,
+    "id": "2144346967",
+    "latitude": 43.33383,
+    "longitude": 11.53775,
+    "registration": "9H-VUC",
+    "source": "ADSB",
+    "station": "PGANRB500833",
+    "timestamp": 1713897891000,
+    "type": "B38M",
+    "verticalspeed": 1020
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "KRK",
+    "arrival_position": [
+    50.0777,
+    19.7848
+    ],
+    "departure": "SUF",
+    "departure_position": [
+    38.9054,
+    16.2423
+    ],
+    "flight": "FR5144",
+    "groundspeed": 480,
+    "heading": 358.38869466193563,
+    "id": "2144346969",
+    "latitude": 42.52296,
+    "longitude": 15.75388,
+    "registration": "SP-RZL",
+    "source": "ADSB",
+    "station": "EXTRPI580141",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": 60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "TSF",
+    "departure_position": [
+    45.6484,
+    12.1944
+    ],
+    "flight": "FR4939",
+    "groundspeed": 440,
+    "heading": 340.7676523728211,
+    "id": "2144347200",
+    "latitude": 46.74273,
+    "longitude": 9.91956,
+    "registration": "EI-ENP",
+    "source": "ADSB",
+    "station": "EXTRPI007504",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": -64
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36700,
+    "arrival": "LTN",
+    "arrival_position": [
+    51.8747,
+    -0.368333
+    ],
+    "departure": "FAO",
+    "departure_position": [
+    37.0144,
+    -7.96591
+    ],
+    "flight": "FR5766",
+    "groundspeed": 421,
+    "heading": 18.923252538931877,
+    "id": "2144347260",
+    "latitude": 38.72262,
+    "longitude": -7.87067,
+    "registration": "EI-DPV",
+    "source": "ADSB",
+    "station": "EXTRPI000828",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 1400
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36975,
+    "arrival": "FUE",
+    "arrival_position": [
+    28.4527,
+    -13.8638
+    ],
+    "departure": "SVQ",
+    "departure_position": [
+    37.418,
+    -5.89311
+    ],
+    "flight": "FR5394",
+    "groundspeed": 408,
+    "heading": 219.12076406612712,
+    "id": "2144347280",
+    "latitude": 35.1329,
+    "longitude": -8.11055,
+    "registration": "EI-EBS",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 33600,
+    "arrival": "PMI",
+    "arrival_position": [
+    39.5517,
+    2.73881
+    ],
+    "departure": "WMI",
+    "departure_position": [
+    52.4511,
+    20.6518
+    ],
+    "flight": "FR2876",
+    "groundspeed": 363,
+    "heading": 217.10057169455575,
+    "id": "2144347301",
+    "latitude": 51.10849,
+    "longitude": 20.04916,
+    "registration": "EI-IJC",
+    "source": "ADSB",
+    "station": "EXTRPI594303",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": 608
+    },
+    {
+    "airline": "RYR",
+    "altitude": 33950,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "VIE",
+    "departure_position": [
+    48.1103,
+    16.5697
+    ],
+    "flight": "FR7350",
+    "groundspeed": 440,
+    "heading": 246.81696941466456,
+    "id": "2144347303",
+    "latitude": 47.41251,
+    "longitude": 14.27378,
+    "registration": "EI-IHX",
+    "source": "ADSB",
+    "station": "EXTRPI023678",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": 1080
+    },
+    {
+    "airline": "RYR",
+    "arrival": "LTN",
+    "arrival_position": [
+    51.8747,
+    -0.368333
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR340",
+    "groundspeed": "",
+    "heading": 5.7276113690914485,
+    "id": "2144347349",
+    "latitude": 53.43153,
+    "longitude": -6.25085,
+    "registration": "EI-ENH",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897878000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 38000,
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "BLQ",
+    "departure_position": [
+    44.5354,
+    11.2887
+    ],
+    "flight": "FR4863",
+    "groundspeed": 450,
+    "heading": 328.38770227574116,
+    "id": "2144347402",
+    "latitude": 46.61957,
+    "longitude": 11.14509,
+    "registration": "EI-DYO",
+    "source": "ADSB",
+    "station": "EXTRPI007504",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37050,
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "VIT",
+    "departure_position": [
+    42.8828,
+    -2.72447
+    ],
+    "flight": "FR3001",
+    "groundspeed": 390,
+    "heading": 26.12795122642018,
+    "id": "2144347864",
+    "latitude": 43.74751,
+    "longitude": -1.27371,
+    "registration": "EI-DLC",
+    "source": "ADSB",
+    "station": "EXTRPI010427",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 1020
+    },
+    {
+    "airline": "RYR",
+    "altitude": 32975,
+    "arrival": "KRK",
+    "arrival_position": [
+    50.0777,
+    19.7848
+    ],
+    "departure": "LTN",
+    "departure_position": [
+    51.8747,
+    -0.368333
+    ],
+    "flight": "FR1813",
+    "groundspeed": 400,
+    "heading": 76.08893573134571,
+    "id": "2144347898",
+    "latitude": 52.15906,
+    "longitude": 1.94588,
+    "registration": "EI-HGE",
+    "source": "ADSB",
+    "station": "EXTRPI014897",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": 1150
+    },
+    {
+    "airline": "RYR",
+    "altitude": 34000,
+    "arrival": "BVA",
+    "arrival_position": [
+    49.4544,
+    2.11278
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR4231",
+    "groundspeed": 440,
+    "heading": 296.10946793759524,
+    "id": "2144347945",
+    "latitude": 46.66825,
+    "longitude": 6.16793,
+    "registration": "EI-HMW",
+    "source": "ADSB",
+    "station": "EXTRPI003427",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": -32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "PMI",
+    "arrival_position": [
+    39.5517,
+    2.73881
+    ],
+    "departure": "FMM",
+    "departure_position": [
+    47.9888,
+    10.2395
+    ],
+    "flight": "FR8552",
+    "groundspeed": 490,
+    "heading": 213.60880140592684,
+    "id": "2144348315",
+    "latitude": 46.57132,
+    "longitude": 6.99702,
+    "registration": "9H-QEJ",
+    "source": "ADSB",
+    "station": "EXTRPI604531",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": -60
+    },
+    {
+    "airline": "RYR",
+    "altitude": 19550,
+    "arrival": "PMO",
+    "arrival_position": [
+    38.176,
+    13.091
+    ],
+    "departure": "VRN",
+    "departure_position": [
+    45.3957,
+    10.8885
+    ],
+    "flight": "FR6283",
+    "groundspeed": 357,
+    "heading": 175.64077337497906,
+    "id": "2144348540",
+    "latitude": 44.87924,
+    "longitude": 10.77752,
+    "registration": "9H-QBG",
+    "source": "ADSB",
+    "station": "EXTRPI005137",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 3104
+    },
+    {
+    "airline": "RYR",
+    "altitude": 40025,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "ALC",
+    "departure_position": [
+    38.2822,
+    -0.558156
+    ],
+    "flight": "FR9064",
+    "groundspeed": 480,
+    "heading": 64.67461728855471,
+    "id": "2144348606",
+    "latitude": 39.33375,
+    "longitude": 2.61893,
+    "registration": "EI-EVK",
+    "source": "ADSB",
+    "station": "EXTRPI610263",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 11275,
+    "arrival": "SOF",
+    "arrival_position": [
+    42.6967,
+    23.4114
+    ],
+    "departure": "CIA",
+    "departure_position": [
+    41.7994,
+    12.5949
+    ],
+    "flight": "FR6309",
+    "groundspeed": 340,
+    "heading": 83.76120526375098,
+    "id": "2144348735",
+    "latitude": 41.67775,
+    "longitude": 12.62917,
+    "registration": "SP-RKF",
+    "source": "ADSB",
+    "station": "EXTRPI001690",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 2620
+    },
+    {
+    "airline": "RYR",
+    "altitude": 33150,
+    "arrival": "CAG",
+    "arrival_position": [
+    39.2515,
+    9.05428
+    ],
+    "departure": "VCE",
+    "departure_position": [
+    45.5053,
+    12.3519
+    ],
+    "flight": "FR2978",
+    "groundspeed": 433,
+    "heading": 204.35767900535973,
+    "id": "2144348758",
+    "latitude": 44.25829,
+    "longitude": 11.80232,
+    "registration": "9H-QEC",
+    "source": "ADSB",
+    "station": "EXTRPI013749",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 2400
+    },
+    {
+    "airline": "RYR",
+    "altitude": 21725,
+    "arrival": "STN",
+    "arrival_position": [
+    51.885,
+    0.235
+    ],
+    "departure": "RZE",
+    "departure_position": [
+    50.11,
+    22.019
+    ],
+    "flight": "FR2135",
+    "groundspeed": 438,
+    "heading": 286.865728971521,
+    "id": "2144348836",
+    "latitude": 50.4529,
+    "longitude": 20.85999,
+    "registration": "9H-VVR",
+    "source": "ADSB",
+    "station": "EXTRPI574803",
+    "timestamp": 1713897893000,
+    "type": "B38M",
+    "verticalspeed": 1696
+    },
+    {
+    "airline": "RYR",
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "MAN",
+    "departure_position": [
+    53.3537,
+    -2.27495
+    ],
+    "flight": "FR3216",
+    "groundspeed": 10,
+    "heading": 240.1239236129965,
+    "id": "2144348859",
+    "latitude": 53.35801,
+    "longitude": -2.27082,
+    "registration": "EI-EMM",
+    "source": "ADSB",
+    "station": "EXTRPI021560",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 33000,
+    "arrival": "PMO",
+    "arrival_position": [
+    38.176,
+    13.091
+    ],
+    "departure": "PSA",
+    "departure_position": [
+    43.6839,
+    10.3927
+    ],
+    "flight": "FR9584",
+    "groundspeed": "",
+    "heading": 160.93638695993877,
+    "id": "2144348891",
+    "latitude": 41.6434,
+    "longitude": 11.21385,
+    "registration": "9H-QEG",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 24075,
+    "arrival": "AGP",
+    "arrival_position": [
+    36.6749,
+    -4.49911
+    ],
+    "departure": "FEZ",
+    "departure_position": [
+    33.9273,
+    -4.97796
+    ],
+    "flight": "FR4461",
+    "groundspeed": 420,
+    "heading": 4.63710934262275,
+    "id": "2144348964",
+    "latitude": 36.43378,
+    "longitude": -3.88472,
+    "registration": "EI-IJL",
+    "source": "ADSB",
+    "station": "EXTRPI000733",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": -2304
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37000,
+    "arrival": "FNC",
+    "arrival_position": [
+    32.6979,
+    -16.7745
+    ],
+    "departure": "OPO",
+    "departure_position": [
+    41.2481,
+    -8.68139
+    ],
+    "flight": "FR6051",
+    "groundspeed": 420,
+    "heading": 217.7921420083979,
+    "id": "2144348999",
+    "latitude": 39.38965,
+    "longitude": -10.71901,
+    "registration": "EI-GXL",
+    "source": "ADSB",
+    "station": "EXTRPI594813",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 21000,
+    "arrival": "ARN",
+    "arrival_position": [
+    59.6519,
+    17.9186
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR4719",
+    "groundspeed": 358,
+    "heading": 36.099906178781055,
+    "id": "2144349009",
+    "latitude": 52.06416,
+    "longitude": 1.25366,
+    "registration": "EI-DLD",
+    "source": "ADSB",
+    "station": "EXTRPI004369",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 2272
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "RIX",
+    "departure_position": [
+    56.9236,
+    23.9711
+    ],
+    "flight": "FR748",
+    "groundspeed": 430,
+    "heading": 185.79509631309767,
+    "id": "2144349133",
+    "latitude": 54.86959,
+    "longitude": 23.15577,
+    "registration": "9H-LOM",
+    "source": "ADSB",
+    "station": "PGANRB400421",
+    "timestamp": 1713897892000,
+    "type": "A320",
+    "verticalspeed": 32
+    },
+    {
+    "airline": "RYR",
+    "altitude": 36000,
+    "arrival": "BVA",
+    "arrival_position": [
+    49.4544,
+    2.11278
+    ],
+    "departure": "OPO",
+    "departure_position": [
+    41.2481,
+    -8.68139
+    ],
+    "flight": "FR7703",
+    "groundspeed": 415,
+    "heading": 37.51633373338535,
+    "id": "2144349649",
+    "latitude": 42.96972,
+    "longitude": -7.67944,
+    "registration": "EI-GJT",
+    "source": "ADSB",
+    "station": "EXTRPI009414",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "BLL",
+    "arrival_position": [
+    55.7403,
+    9.15178
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR5172",
+    "groundspeed": "",
+    "heading": 343.5302128826392,
+    "id": "2144349664",
+    "latitude": 51.89308,
+    "longitude": 0.25492,
+    "registration": "EI-EKN",
+    "source": "ADSB",
+    "station": "EXTRPI016097",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 23200,
+    "arrival": "FEZ",
+    "arrival_position": [
+    33.9273,
+    -4.97796
+    ],
+    "departure": "BVA",
+    "departure_position": [
+    49.4544,
+    2.11278
+    ],
+    "flight": "FR5223",
+    "groundspeed": 441,
+    "heading": 177.73857035590015,
+    "id": "2144349788",
+    "latitude": 48.73741,
+    "longitude": 1.98944,
+    "registration": "EI-EFX",
+    "source": "ADSB",
+    "station": "EXTRPI599552",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 2048
+    },
+    {
+    "airline": "RYR",
+    "altitude": 21675,
+    "arrival": "DUB",
+    "arrival_position": [
+    53.4213,
+    -6.27007
+    ],
+    "departure": "PRG",
+    "departure_position": [
+    50.1008,
+    14.26
+    ],
+    "flight": "FR97",
+    "groundspeed": 369,
+    "heading": 281.4883142077807,
+    "id": "2144350087",
+    "latitude": 50.18143,
+    "longitude": 13.22985,
+    "registration": "EI-GSG",
+    "source": "ADSB",
+    "station": "EXTRPI005113",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": 2560
+    },
+    {
+    "airline": "RYR",
+    "altitude": 27900,
+    "arrival": "BRI",
+    "arrival_position": [
+    41.1389,
+    16.7606
+    ],
+    "departure": "MLA",
+    "departure_position": [
+    35.8575,
+    14.4775
+    ],
+    "flight": "FR7108",
+    "groundspeed": 440,
+    "heading": 12.07033847577685,
+    "id": "2144350181",
+    "latitude": 36.59127,
+    "longitude": 14.59884,
+    "registration": "9H-QES",
+    "source": "ADSB",
+    "station": "EXTRPI002324",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": 2176
+    },
+    {
+    "airline": "RYR",
+    "arrival": "BDS",
+    "arrival_position": [
+    40.6576,
+    17.947
+    ],
+    "departure": "VCE",
+    "departure_position": [
+    45.5053,
+    12.3519
+    ],
+    "flight": "FR3734",
+    "groundspeed": "",
+    "heading": 135.31050074129143,
+    "id": "2144350299",
+    "latitude": 45.49449,
+    "longitude": 12.33703,
+    "registration": "9H-QBU",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 27300,
+    "arrival": "GDN",
+    "arrival_position": [
+    54.3776,
+    18.4662
+    ],
+    "departure": "CPH",
+    "departure_position": [
+    55.6179,
+    12.656
+    ],
+    "flight": "FR6845",
+    "groundspeed": 411,
+    "heading": 101.54553571141429,
+    "id": "2144350362",
+    "latitude": 55.37915,
+    "longitude": 13.75973,
+    "registration": "9H-QFA",
+    "source": "ADSB",
+    "station": "EXTRPI149367",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 1952
+    },
+    {
+    "airline": "RYR",
+    "altitude": 34700,
+    "arrival": "CRL",
+    "arrival_position": [
+    50.4592,
+    4.45382
+    ],
+    "departure": "OPO",
+    "departure_position": [
+    41.2481,
+    -8.68139
+    ],
+    "flight": "FR4867",
+    "groundspeed": 404,
+    "heading": 35.151291940809244,
+    "id": "2144350601",
+    "latitude": 42.61688,
+    "longitude": -7.90666,
+    "registration": "EI-DWC",
+    "source": "ADSB",
+    "station": "EXTRPI009414",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 704
+    },
+    {
+    "airline": "RYR",
+    "altitude": 20300,
+    "arrival": "LUX",
+    "arrival_position": [
+    49.6266,
+    6.21152
+    ],
+    "departure": "MRS",
+    "departure_position": [
+    43.4393,
+    5.22142
+    ],
+    "flight": "FR7277",
+    "groundspeed": 340,
+    "heading": 344.41887172007665,
+    "id": "2144350636",
+    "latitude": 43.91757,
+    "longitude": 4.77703,
+    "registration": "9H-VUR",
+    "source": "ADSB",
+    "station": "EXTRPI039190",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": 2300
+    },
+    {
+    "airline": "RYR",
+    "altitude": 24250,
+    "arrival": "PFO",
+    "arrival_position": [
+    34.718,
+    32.4857
+    ],
+    "departure": "FMM",
+    "departure_position": [
+    47.9888,
+    10.2395
+    ],
+    "flight": "FR9219",
+    "groundspeed": 383,
+    "heading": 132.3231945643813,
+    "id": "2144350886",
+    "latitude": 47.45128,
+    "longitude": 11.27197,
+    "registration": "EI-IGY",
+    "source": "ADSB",
+    "station": "EXTRPI000248",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": 1312
+    },
+    {
+    "airline": "RYR",
+    "altitude": 29275,
+    "arrival": "BVA",
+    "arrival_position": [
+    49.4544,
+    2.11278
+    ],
+    "departure": "OTP",
+    "departure_position": [
+    44.5722,
+    26.1022
+    ],
+    "flight": "FR9161",
+    "groundspeed": 420,
+    "heading": 299.3390272639874,
+    "id": "2144350939",
+    "latitude": 45.23007,
+    "longitude": 24.6541,
+    "registration": "9H-VUY",
+    "source": "ADSB",
+    "station": "EXTRPI589863",
+    "timestamp": 1713897892000,
+    "type": "B38M",
+    "verticalspeed": 1280
+    },
+    {
+    "airline": "RYR",
+    "altitude": 37975,
+    "arrival": "MRS",
+    "arrival_position": [
+    43.4393,
+    5.22142
+    ],
+    "departure": "OZZ",
+    "departure_position": [
+    30.9391,
+    -6.90943
+    ],
+    "flight": "FR6475",
+    "groundspeed": 471,
+    "heading": 36.0800747245259,
+    "id": "2144350980",
+    "latitude": 32.92994,
+    "longitude": -5.85863,
+    "registration": "9H-VVE",
+    "source": "ADSB",
+    "station": "EXTRPI001134",
+    "timestamp": 1713897890000,
+    "type": "B38M",
+    "verticalspeed": 768
+    },
+    {
+    "airline": "RYR",
+    "arrival": "MLA",
+    "arrival_position": [
+    35.8575,
+    14.4775
+    ],
+    "departure": "FCO",
+    "departure_position": [
+    41.8045,
+    12.2508
+    ],
+    "flight": "FR209",
+    "groundspeed": 6,
+    "heading": 62.86440542263705,
+    "id": "2144351693",
+    "latitude": 41.80714,
+    "longitude": 12.26909,
+    "registration": "9H-QBD",
+    "source": "ADSB",
+    "station": "EXTRPI002074",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 27975,
+    "arrival": "IBZ",
+    "arrival_position": [
+    38.8729,
+    1.37312
+    ],
+    "departure": "BGY",
+    "departure_position": [
+    45.6739,
+    9.70417
+    ],
+    "flight": "FR8800",
+    "groundspeed": 430,
+    "heading": 223.2984082908304,
+    "id": "2144351718",
+    "latitude": 44.77551,
+    "longitude": 8.44914,
+    "registration": "9H-QAC",
+    "source": "ADSB",
+    "station": "EXTRPI026638",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": 3710
+    },
+    {
+    "airline": "RYR",
+    "altitude": 10525,
+    "arrival": "KUN",
+    "arrival_position": [
+    54.9639,
+    24.0848
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR2971",
+    "groundspeed": 300,
+    "heading": 96.71000766585536,
+    "id": "2144351822",
+    "latitude": 53.51561,
+    "longitude": -6.13021,
+    "registration": "SP-RSG",
+    "source": "ADSB",
+    "station": "EXTRPI589261",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 1600
+    },
+    {
+    "airline": "RYR",
+    "altitude": 35000,
+    "arrival": "ALC",
+    "arrival_position": [
+    38.2822,
+    -0.558156
+    ],
+    "departure": "GLA",
+    "departure_position": [
+    55.8719,
+    -4.43306
+    ],
+    "flight": "FR2522",
+    "groundspeed": "",
+    "heading": 179.99364468779402,
+    "id": "2144351893",
+    "latitude": 50.33937,
+    "longitude": -0.54672,
+    "registration": "EI-IGG",
+    "source": "ESTI",
+    "station": "ESTIMATED",
+    "timestamp": 1713897887554,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 625,
+    "arrival": "MXP",
+    "arrival_position": [
+    45.6306,
+    8.72811
+    ],
+    "departure": "ALC",
+    "departure_position": [
+    38.2822,
+    -0.558156
+    ],
+    "flight": "FR1424",
+    "groundspeed": 160,
+    "heading": 101.54003740913242,
+    "id": "2144352240",
+    "latitude": 38.28058,
+    "longitude": -0.54634,
+    "registration": "9H-QCL",
+    "source": "ADSB",
+    "station": "EXTRPI027106",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 3320
+    },
+    {
+    "airline": "RYR",
+    "altitude": 32000,
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "VLC",
+    "departure_position": [
+    39.4893,
+    -0.481625
+    ],
+    "flight": "FR4632",
+    "groundspeed": 420,
+    "heading": 47.1873625037465,
+    "id": "2144352377",
+    "latitude": 40.22099,
+    "longitude": 0.53607,
+    "registration": "EI-ENR",
+    "source": "ADSB",
+    "station": "PGANRB500598",
+    "timestamp": 1713897893000,
+    "type": "B738",
+    "verticalspeed": 1530
+    },
+    {
+    "airline": "RYR",
+    "arrival": "FCO",
+    "arrival_position": [
+    41.8045,
+    12.2508
+    ],
+    "departure": "CTA",
+    "departure_position": [
+    37.4668,
+    15.0664
+    ],
+    "flight": "FR4871",
+    "groundspeed": "",
+    "heading": 84.07505928630223,
+    "id": "2144352456",
+    "latitude": 37.46942,
+    "longitude": 15.07765,
+    "registration": "9H-QDF",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897881000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "PMI",
+    "departure_position": [
+    39.5517,
+    2.73881
+    ],
+    "flight": "FR503",
+    "groundspeed": 24,
+    "heading": 329.2291610909192,
+    "id": "2144352597",
+    "latitude": 39.55514,
+    "longitude": 2.73588,
+    "registration": "9H-IHH",
+    "source": "ADSB",
+    "station": "EXTRPI610263",
+    "timestamp": 1713897892000,
+    "type": "A320",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "LUX",
+    "departure_position": [
+    49.6266,
+    6.21152
+    ],
+    "flight": "FR3109",
+    "groundspeed": "",
+    "heading": 62.82358821215706,
+    "id": "2144352687",
+    "latitude": 49.63281,
+    "longitude": 6.22301,
+    "registration": "EI-EST",
+    "source": "ADSB",
+    "station": "EXTRPI000269",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 5150,
+    "arrival": "MXP",
+    "arrival_position": [
+    45.6306,
+    8.72811
+    ],
+    "departure": "BRI",
+    "departure_position": [
+    41.1389,
+    16.7606
+    ],
+    "flight": "FR6183",
+    "groundspeed": 214,
+    "heading": 294.64612722867673,
+    "id": "2144352787",
+    "latitude": 41.11528,
+    "longitude": 16.64069,
+    "registration": "9H-QDZ",
+    "source": "ADSB",
+    "station": "EXTRPI001750",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": 3168
+    },
+    {
+    "airline": "RYR",
+    "arrival": "EMA",
+    "arrival_position": [
+    52.8311,
+    -1.32806
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR536",
+    "groundspeed": 16,
+    "heading": 323.84178449627456,
+    "id": "2144352790",
+    "latitude": 53.43131,
+    "longitude": -6.25504,
+    "registration": "EI-DWK",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897884000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "BRS",
+    "arrival_position": [
+    51.3827,
+    -2.71909
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR508",
+    "groundspeed": "",
+    "heading": 88.50033884955349,
+    "id": "2144352935",
+    "latitude": 53.43194,
+    "longitude": -6.24641,
+    "registration": "EI-DYR",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897812000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "BUD",
+    "departure_position": [
+    47.4369,
+    19.2556
+    ],
+    "flight": "FR3165",
+    "groundspeed": 10,
+    "heading": 222.47222860882565,
+    "id": "2144352946",
+    "latitude": 47.43218,
+    "longitude": 19.25218,
+    "registration": "SP-RKS",
+    "source": "ADSB",
+    "station": "EXTRPI026712",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "NAP",
+    "arrival_position": [
+    40.886,
+    14.2908
+    ],
+    "departure": "STN",
+    "departure_position": [
+    51.885,
+    0.235
+    ],
+    "flight": "FR1474",
+    "groundspeed": "",
+    "heading": 224.43558014612415,
+    "id": "2144353238",
+    "latitude": 51.87748,
+    "longitude": 0.22836,
+    "registration": "9H-QBX",
+    "source": "ADSB",
+    "station": "EXTRPI016097",
+    "timestamp": 1713897890000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 20125,
+    "arrival": "BCN",
+    "arrival_position": [
+    41.2971,
+    2.07846
+    ],
+    "departure": "SCQ",
+    "departure_position": [
+    42.8963,
+    -8.41514
+    ],
+    "flight": "FR6331",
+    "groundspeed": 370,
+    "heading": 72.01605294813203,
+    "id": "2144353326",
+    "latitude": 43.12248,
+    "longitude": -7.74689,
+    "registration": "EI-EFI",
+    "source": "ADSB",
+    "station": "PGANRB500541",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": 2368
+    },
+    {
+    "airline": "RYR",
+    "arrival": "FCO",
+    "arrival_position": [
+    41.8045,
+    12.2508
+    ],
+    "departure": "MLA",
+    "departure_position": [
+    35.8575,
+    14.4775
+    ],
+    "flight": "FR9478",
+    "groundspeed": "",
+    "heading": 19.156715234952117,
+    "id": "2144353344",
+    "latitude": 35.84669,
+    "longitude": 14.4966,
+    "registration": "9H-VUG",
+    "source": "ADSB",
+    "station": "EXTRPI252071",
+    "timestamp": 1713897866000,
+    "type": "B38M",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "ZAD",
+    "arrival_position": [
+    44.1083,
+    15.3467
+    ],
+    "departure": "KRK",
+    "departure_position": [
+    50.0777,
+    19.7848
+    ],
+    "flight": "FR7273",
+    "groundspeed": 20,
+    "heading": 257.00968803383125,
+    "id": "2144353363",
+    "latitude": 50.07691,
+    "longitude": 19.79706,
+    "registration": "SP-RND",
+    "source": "ADSB",
+    "station": "EXTRPI008582",
+    "timestamp": 1713897891000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 24625,
+    "arrival": "RAK",
+    "arrival_position": [
+    31.6069,
+    -8.0363
+    ],
+    "departure": "FEZ",
+    "departure_position": [
+    33.9273,
+    -4.97796
+    ],
+    "flight": "FR6730",
+    "groundspeed": 453,
+    "heading": 209.12435874408493,
+    "id": "2144353444",
+    "latitude": 33.36576,
+    "longitude": -5.67545,
+    "registration": "EI-DYA",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 1728
+    },
+    {
+    "airline": "RYR",
+    "arrival": "BGY",
+    "arrival_position": [
+    45.6739,
+    9.70417
+    ],
+    "departure": "CAG",
+    "departure_position": [
+    39.2515,
+    9.05428
+    ],
+    "flight": "FR4876",
+    "groundspeed": 20,
+    "heading": 148.31878726087746,
+    "id": "2144353463",
+    "latitude": 39.24631,
+    "longitude": 9.06435,
+    "registration": "9H-QBB",
+    "source": "ADSB",
+    "station": "PGANRB500769",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "EDI",
+    "arrival_position": [
+    55.95,
+    -3.3725
+    ],
+    "departure": "DUB",
+    "departure_position": [
+    53.4213,
+    -6.27007
+    ],
+    "flight": "FR818",
+    "groundspeed": "",
+    "heading": 90.00000250447818,
+    "id": "2144353708",
+    "latitude": 53.43134,
+    "longitude": -6.25154,
+    "registration": "EI-EMA",
+    "source": "ADSB",
+    "station": "EXTRPI210271",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "SVQ",
+    "arrival_position": [
+    37.418,
+    -5.89311
+    ],
+    "departure": "TSF",
+    "departure_position": [
+    45.6484,
+    12.1944
+    ],
+    "flight": "FR5530",
+    "groundspeed": "",
+    "heading": 180.00000500895635,
+    "id": "2144353887",
+    "latitude": 45.65314,
+    "longitude": 12.20427,
+    "registration": "EI-EPD",
+    "source": "ADSB",
+    "station": "EXTRPI009164",
+    "timestamp": 1713897873000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 20175,
+    "arrival": "MRS",
+    "arrival_position": [
+    43.4393,
+    5.22142
+    ],
+    "departure": "ZAD",
+    "departure_position": [
+    44.1083,
+    15.3467
+    ],
+    "flight": "FR5176",
+    "groundspeed": 354,
+    "heading": 278.62880087024155,
+    "id": "2144354008",
+    "latitude": 44.29083,
+    "longitude": 14.66891,
+    "registration": "9H-LOO",
+    "source": "ADSB",
+    "station": "EXTRPI027714",
+    "timestamp": 1713897893000,
+    "type": "A320",
+    "verticalspeed": 2144
+    },
+    {
+    "airline": "RYR",
+    "arrival": "CGN",
+    "arrival_position": [
+    50.8659,
+    7.14274
+    ],
+    "departure": "FCO",
+    "departure_position": [
+    41.8045,
+    12.2508
+    ],
+    "flight": "FR933",
+    "groundspeed": "",
+    "heading": 232.53091159572003,
+    "id": "2144354223",
+    "latitude": 41.79586,
+    "longitude": 12.2591,
+    "registration": "EI-EMB",
+    "source": "ADSB",
+    "station": "EXTRPI002074",
+    "timestamp": 1713897894000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "altitude": 2975,
+    "arrival": "MAD",
+    "arrival_position": [
+    40.4936,
+    -3.56676
+    ],
+    "departure": "CRL",
+    "departure_position": [
+    50.4592,
+    4.45382
+    ],
+    "flight": "FR5463",
+    "groundspeed": 214,
+    "heading": 245.3297298738401,
+    "id": "2144354682",
+    "latitude": 50.43898,
+    "longitude": 4.3808,
+    "registration": "EI-EVH",
+    "source": "ADSB",
+    "station": "EXTRPI015932",
+    "timestamp": 1713897892000,
+    "type": "B738",
+    "verticalspeed": 3520
+    },
+    {
+    "airline": "RYR",
+    "arrival": "PSA",
+    "arrival_position": [
+    43.6839,
+    10.3927
+    ],
+    "departure": "GRO",
+    "departure_position": [
+    41.901,
+    2.76055
+    ],
+    "flight": "FR9522",
+    "groundspeed": 2,
+    "heading": 275.77411647644556,
+    "id": "2144354709",
+    "latitude": 41.89854,
+    "longitude": 2.76399,
+    "registration": "EI-DWS",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897889000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "VIE",
+    "arrival_position": [
+    48.1103,
+    16.5697
+    ],
+    "departure": "MXP",
+    "departure_position": [
+    45.6306,
+    8.72811
+    ],
+    "flight": "FR215",
+    "groundspeed": "",
+    "heading": 62.34815923459996,
+    "id": "2144354748",
+    "latitude": 45.62736,
+    "longitude": 8.71684,
+    "registration": "9H-IHL",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897842000,
+    "type": "A320",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "SCQ",
+    "arrival_position": [
+    42.8963,
+    -8.41514
+    ],
+    "departure": "MAD",
+    "departure_position": [
+    40.4936,
+    -3.56676
+    ],
+    "flight": "FR5315",
+    "groundspeed": "",
+    "heading": 305.48392989419443,
+    "id": "2144354823",
+    "latitude": 40.46463,
+    "longitude": -3.56804,
+    "registration": "EI-EMK",
+    "source": "ADSB",
+    "station": "ADS-B ",
+    "timestamp": 1713897861000,
+    "type": "B738",
+    "verticalspeed": ""
+    },
+    {
+    "airline": "RYR",
+    "arrival": "CAG",
+    "arrival_position": [
+    39.2515,
+    9.05428
+    ],
+    "departure": "TRS",
+    "departure_position": [
+    45.8275,
+    13.4722
+    ],
+    "flight": "FR5601",
+    "groundspeed": "",
+    "heading": 320,
+    "id": "2144354930",
+    "latitude": 39.25244,
+    "longitude": 9.05942,
+    "registration": "9H-QCT",
+    "source": "ADSB",
+    "station": "PGANRB500769",
+    "timestamp": 1713897888000,
+    "type": "B738",
+    "verticalspeed": ""
+    }
+  ]
+  
