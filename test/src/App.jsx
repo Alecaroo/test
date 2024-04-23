@@ -1,132 +1,64 @@
-import DataTable from "react-data-table-component";
+import React, { useState, useEffect } from 'react';
 
 function App() {
-  const columns = [
-    {
-      name: "Arrival",
-      selector: row => row.arrival
-    },
-    {
-      name: "Model",
-      selector: row => row.model
-    },
-    {
-      name: "Time",
-      selector: row => row.time,
-      sortable: true
-    },
-    {
-      name: "Departure",
-      selector: row => row.departure
-    },
-  ]
-  const data = [
-    {
-      arrival: "ACE",
-      model: "Boeing 737",
-      time: "14:30",
-      departure: "ZAZ"
-    },
-    {
-      arrival: "ALC",
-      model: "Boeing 737",
-      time: "11:30",
-      departure: "SCQ"
-    },
-    {
-      arrival: "ACE",
-      model: "Boeing 737",
-      time: "14:30",
-      departure: "ZAZ"
-    },
-    {
-      arrival: "ALC",
-      model: "Boeing 737",
-      time: "11:30",
-      departure: "SCQ"
-    },
-    {
-      arrival: "ACE",
-      model: "Boeing 737",
-      time: "14:30",
-      departure: "ZAZ"
-    },
-    {
-      arrival: "ALC",
-      model: "Boeing 737",
-      time: "11:30",
-      departure: "SCQ"
-    },
-    {
-      arrival: "ACE",
-      model: "Boeing 737",
-      time: "14:30",
-      departure: "ZAZ"
-    },
-    {
-      arrival: "ALC",
-      model: "Boeing 737",
-      time: "11:30",
-      departure: "SCQ"
-    },
-    {
-      arrival: "ACE",
-      model: "Boeing 737",
-      time: "14:30",
-      departure: "ZAZ"
-    },
-    {
-      arrival: "ALC",
-      model: "Boeing 737",
-      time: "11:30",
-      departure: "SCQ"
-    },
-    {
-      arrival: "ACE",
-      model: "Boeing 737",
-      time: "14:30",
-      departure: "ZAZ"
-    },
-    {
-      arrival: "ALC",
-      model: "Boeing 737",
-      time: "11:30",
-      departure: "SCQ"
-    },
-    {
-      arrival: "ACE",
-      model: "Boeing 737",
-      time: "14:30",
-      departure: "ZAZ"
-    },
-    {
-      arrival: "ALC",
-      model: "Boeing 737",
-      time: "11:30",
-      departure: "SCQ"
-    },
-    {
-      arrival: "ACE",
-      model: "Boeing 737",
-      time: "14:30",
-      departure: "ZAZ"
-    },
-    {
-      arrival: "ALC",
-      model: "Boeing 737",
-      time: "11:30",
-      departure: "SCQ"
-    },
-  ]
+  const [flights, setFlights] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const url = 'https://flight-data4.p.rapidapi.com/get_airline_flights?airline=RYR';
+      const options = {
+        method: 'GET',
+        headers: {
+          'X-RapidAPI-Key': 'ce0f83066emsh934fbd0a8ba5fd4p12fb1djsn42488df0c8b4',
+          'X-RapidAPI-Host': 'flight-data4.p.rapidapi.com'
+        }
+      };
+
+      try {
+        const response = await fetch(url, options);
+        const data = await response.json();
+        setFlights(data);
+        setLoading(false);
+      } catch (error) {
+        console.error('Error al obtener datos:', error);
+        setLoading(false);
+      }
+    };
+
+    fetchData();
+  }, []);
+
   return (
     <div>
-      <DataTable
-        columns={columns}
-        data={data}
-        pagination
-        fixedHeader
-      />
+      {loading ? (
+        <p>Cargando...</p>
+      ) : (
+        <table>
+          <thead>
+            <tr>
+              <th>Vuelo</th>
+              <th>Origen</th>
+              <th>Destino</th>
+              <th>Fecha</th>
+              {/* Agrega más encabezados según los datos que quieras mostrar */}
+            </tr>
+          </thead>
+          <tbody>
+            {flights.map((flight, index) => (
+              <tr key={index}>
+                <td>{flight.flight}</td>
+                <td>{flight.origin}</td>
+                <td>{flight.destination}</td>
+                <td>{flight.date}</td>
+                {/* Agrega más celdas según los datos que quieras mostrar */}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      )}
     </div>
-  )
+  );
 }
+
 export default App;
