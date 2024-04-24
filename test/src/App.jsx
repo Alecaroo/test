@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+import './App.css';
+
 
 function App() {
   const [flights, setFlights] = useState([]);
@@ -30,20 +32,19 @@ function App() {
   }, []);
 
   return (
-    <div>
+    <div className='container'>
       {loading ? (
         <p>Cargando...</p>
       ) : (
-        <table>
+        <table className='flight-table'>
           <thead>
             <tr>
-              <th>Vuelo</th>
-              <th>Origen</th>
-              <th>Destino</th>
-              <th>Altitud</th>
-              <th>Velocidad en Tierra</th>
-              <th>Rumbo</th>
-              {/* Agrega más encabezados según los datos que quieras mostrar */}
+              <th className='header-table'>Vuelo</th>
+              <th className='header-table'>Origen</th>
+              <th className='header-table'>Destino</th>
+              <th className='header-table'>Altitud</th>
+              <th className='header-table'>Velocidad en Tierra</th>
+              <th className='header-table'>Rumbo</th>
             </tr>
           </thead>
           <tbody>
@@ -55,7 +56,6 @@ function App() {
                 <td>{flight.altitude}</td>
                 <td>{flight.groundspeed}</td>
                 <td>{flight.heading}</td>
-                {/* Agrega más celdas según los datos que quieras mostrar */}
               </tr>
             ))}
           </tbody>

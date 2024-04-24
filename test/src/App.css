@@ -40,3 +40,25 @@
 .read-the-docs {
   color: #888;
 }
+/* App.css */
+
+.container {
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+}
+.flight-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.flight-table th, .flight-table td {
+  padding: 8px;
+  border: 1px solid rgb(255, 200, 0);
+  text-align: left;
+}
+.header-table {
+  background-color: rgb(36, 36, 255);
+  color: rgb(255, 200, 0);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
